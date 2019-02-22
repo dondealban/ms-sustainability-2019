@@ -14,7 +14,7 @@ Integrating analytical frameworks to investigate land-cover regime shifts in dyn
 
 <a name="overview"></a>
 ## Overview
-This repository contains the materials used for my investigation of landscape-level land-cover regime shifts published in [Sustainability](https://www.mdpi.com/journal/sustainability) journal on February 2019. The paper, both the [main paper](link here) and [supplementary materials](link here), is published open-access and can be downloaded for free under a [CC BY 4.0 license](#license). The materials provided in this repository serve to supplement the published paper by creating a backup of the materials used in and developed through the study, to encourage doing better science by fostering reproducibility and transparency, and to improve the overall impact of the research—both for other researchers and my future self.
+This repository contains the materials used for my investigation of landscape-level land-cover regime shifts published in [Sustainability](https://www.mdpi.com/journal/sustainability) journal on February 2019. The paper, both the [main paper](https://www.mdpi.com/2071-1050/11/4/1139/pdf) and [supplementary materials](https://www.mdpi.com/2071-1050/11/4/1139#supplementary), is published open-access and can be downloaded for free under a [CC BY 4.0 license](#license). The materials provided in this repository serve to supplement the published paper by creating a backup of the materials used in and developed through the study, to encourage doing better science by fostering reproducibility and transparency, and to improve the overall impact of the research—both for other researchers and my future self.
 
 <a name="abstract"></a>
 ## Abstract
