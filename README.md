@@ -1,6 +1,8 @@
 # 2019 Sustainability paper
 Integrating analytical frameworks to investigate land-cover regime shifts in dynamic landscapes.
 
+[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fsu11041139-blue.svg)](https://doi.org/10.3390/su11041139)
+
 
 ## Table of Contents
 - [Overview](#overview)
