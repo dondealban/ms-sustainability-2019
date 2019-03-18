@@ -22,6 +22,30 @@ This repository contains the materials used for my investigation of landscape-le
 ## Abstract
 Regime shifts—rapid long-term transitions between stable states—are well documented in ecology but remain controversial and understudied in land use and land cover change (LUCC). In particular, uncertainty surrounds the prevalence and causes of regime shifts at the landscape level. We studied LUCC dynamics in the Tanintharyi Region (Myanmar), which contains one of the last remaining significant contiguous forest areas in Southeast Asia but was heavily deforested between 1992–2015. By combining remote sensing methods and a literature review of historical processes leading to LUCC, we identified a regime shift from a forest-oriented state to an agricultural-oriented state between 1997–2004. The regime shift was triggered by a confluence of complex political and economic conditions within Myanmar, notably the ceasefires between various ethnic groups and the military government, coupled with its enhanced business relations with Thailand and China. Government policies and foreign direct investment enabling the establishment of large-scale agro-industrial concessions reinforced the new agriculture-oriented regime and prevented reversion to the original forest-dominated regime. Our approach of integrating complementary analytical frameworks to identify and understand land-cover regime shifts can help policymakers to preempt future regime shifts in Tanintharyi, and can be applied to the study of land change in other regions.
 
+<a name="citation"></a>
+## Citation
+De Alban, J.D.T., G.W. Prescott, K.M. Woods, J. Jamaludin, K.T. Latt, C.L. Lim, A.C. Maung, E.L. Webb (2019). Integrating analytical frameworks to investigate land-cover regime shifts in dynamic landscapes. *Sustainability* 11(4), 1139. [doi:10.3390/su11041139](https://doi.org/10.3390/su11041139)
+
+**BibTeX entry:**
+```
+@article{de_alban_integrating_2019,
+	title = {Integrating analytical frameworks to investigate land-cover regime shifts in dynamic landscapes},
+	volume = {11},
+	copyright = {http://creativecommons.org/licenses/by/4.0/},
+	url = {https://www.mdpi.com/2071-1050/11/4/1139},
+	doi = {10.3390/su11041139},
+	language = {en},
+	number = {4},
+	urldate = {2019-02-22},
+	journal = {Sustainability},
+	author = {De Alban, Jose Don T. and Prescott, Graham W. and Woods, Kevin M. and Jamaludin, Johanness and Latt, Kyaw Thinn and Lim, Cheng Ling and Maung, Aye Chan and Webb, Edward L.},
+	month = feb,
+	year = {2019},
+	keywords = {process, deforestation, sustainable development, pattern, Myanmar, agricultural plantation, armed conflict, ESA CCI land cover dataset, land use/land cover change, Tanintharyi Region},
+	pages = {1139}
+}
+```
+
 <a name="license"></a>
 ## License
 Creative Commons Attribution 4.0 International [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
