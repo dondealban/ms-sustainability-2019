@@ -24,7 +24,7 @@ Regime shifts—rapid long-term transitions between stable states—are well doc
 
 <a name="citation"></a>
 ## Citation
-De Alban, J.D.T., G.W. Prescott, K.M. Woods, J. Jamaludin, K.T. Latt, C.L. Lim, A.C. Maung, E.L. Webb (2019). Integrating analytical frameworks to investigate land-cover regime shifts in dynamic landscapes. *Sustainability* 11(4), 1139. [doi:10.3390/su11041139](https://doi.org/10.3390/su11041139)
+De Alban, J.D.T., G.W. Prescott, K.M. Woods, J. Jamaludin, K.T. Latt, C.L. Lim, A.C. Maung, E.L. Webb (2019). Integrating analytical frameworks to investigate land-cover regime shifts in dynamic landscapes. *Sustainability.* 11(4), 1139. [doi:10.3390/su11041139](https://doi.org/10.3390/su11041139)
 
 **BibTeX entry:**
 ```
