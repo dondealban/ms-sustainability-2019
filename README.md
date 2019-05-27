@@ -28,11 +28,18 @@ The following scripts were used for preparing datasets, analysing datasets, and 
 
 #### Data Analysis
 
-*Scripts:* R scripts for generating a [stacked area plot](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Stacked-Area-Plot_Land-Cover-Transition.R) of annual net land cover change, and for generating barplots to visualise the results of the Intensity Analysis framework at the [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Interval-Level.R), [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Category-Level.R), and [transition](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Transition-Level.R) levels.
+*Scripts:* R scripts for generating a [stacked area plot](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Stacked-Area-Plot_Land-Cover-Transition.R) of annual net land cover change, and for generating barplots to visualise the results of the Intensity Analysis framework at the [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Interval-Level.R), [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Category-Level.R), and [transition](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Transition-Level.R) levels
+
+[JSON script](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/JSON/Script_Sankey-Diagram.json) for generating the Sankey diagram.
 
 
 <a name="output_files"></a>
 ## Output Files
+
+***Change Analysis and Visualisation***
+1. [stacked area plot](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig03_Stacked%20Area%20Plot.pdf) showing annual net land cover change
+2. [Sankey diagram](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig05_Sankey%20Diagram.pdf) showing gross land cover transitions at different time-periods
+3. [ball-and-valley diagram](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig07_Ball%20%26%20Valley%20Diagram.pdf) visualising the land-cover regime shift
 
 ***Intensity Analysis***
 1. barplots for visualising results of Intensity Analysis at three levels—interval, category, and transition—for the region and for each district:
@@ -40,7 +47,7 @@ The following scripts were used for preparing datasets, analysing datasets, and 
 - Dawei District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS2_Interval-Level%20Intensity%20Analysis%20-%20Dawei.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS6_Category-Level%20Intensity%20Analysis%20-%20Dawei.pdf) levels
 - Myeik District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS3_Interval-Level%20Intensity%20Analysis%20-%20Myeik.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS7_Category-Level%20Intensity%20Analysis%20-%20Myeik.pdf) levels
 - Kawthoung District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS4_Interval-Level%20Intensity%20Analysis%20-%20Kawthoung.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS8_Category-Level%20Intensity%20Analysis%20-%20Kawthoung.pdf) levels
-2.
+2. [sunburst diagrams](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig06_Category-Level%20Intensity%20Analysis.pdf) for summarising the gross losses and gross gains among land cover categories at regional and district levels from the results of the category-level Intensity Analysis 
 
 <a name="citation"></a>
 ## Citation
