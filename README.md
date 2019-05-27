@@ -22,6 +22,15 @@ This repository contains the materials used for my investigation of landscape-le
 ## Abstract
 Regime shifts—rapid long-term transitions between stable states—are well documented in ecology but remain controversial and understudied in land use and land cover change (LUCC). In particular, uncertainty surrounds the prevalence and causes of regime shifts at the landscape level. We studied LUCC dynamics in the Tanintharyi Region (Myanmar), which contains one of the last remaining significant contiguous forest areas in Southeast Asia but was heavily deforested between 1992–2015. By combining remote sensing methods and a literature review of historical processes leading to LUCC, we identified a regime shift from a forest-oriented state to an agricultural-oriented state between 1997–2004. The regime shift was triggered by a confluence of complex political and economic conditions within Myanmar, notably the ceasefires between various ethnic groups and the military government, coupled with its enhanced business relations with Thailand and China. Government policies and foreign direct investment enabling the establishment of large-scale agro-industrial concessions reinforced the new agriculture-oriented regime and prevented reversion to the original forest-dominated regime. Our approach of integrating complementary analytical frameworks to identify and understand land-cover regime shifts can help policymakers to preempt future regime shifts in Tanintharyi, and can be applied to the study of land change in other regions.
 
+<a name="scripts"></a>
+## Scripts
+The following scripts were used for preparing datasets, analysing datasets, and generating figures.
+
+#### Data Analysis
+
+*Scripts:* R scripts for generating a [stacked area plot](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Stacked-Area-Plot_Land-Cover-Transition.R) of annual net land cover change, and for generating barplots to visualise the results of the Intensity Analysis framework at the [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Interval-Level.R), [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Category-Level.R), and [transition](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Transition-Level.R) levels.
+
+
 <a name="output_files"></a>
 ## Output Files
 
