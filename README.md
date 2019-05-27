@@ -24,8 +24,11 @@ Regime shifts—rapid long-term transitions between stable states—are well doc
 
 | ![fig-01](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig01_Conceptual%20Framework.jpg) | ![fig-07](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig07_Ball%20%26%20Valley%20Diagram.jpg) |
 |:---:|:---:|
-<img src="https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig01_Conceptual%20Framework.jpg" width="300" />
-<img src="https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig07_Ball%20%26%20Valley%20Diagram.jpg" width="400" />
+
+<img src="https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig01_Conceptual%20Framework.jpg" width="300" /><img src="https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig07_Ball%20%26%20Valley%20Diagram.jpg" width="400" />
+
+| <img src="https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig01_Conceptual%20Framework.jpg" width="300" /> | <img src="https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig07_Ball%20%26%20Valley%20Diagram.jpg" width="500" /> |
+|:---:|:---:|
 
 <a name="scripts"></a>
 ## Scripts
@@ -45,9 +48,19 @@ We calculated the area of each land cover category per year using the `Land Cove
 
 ![fig-03](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig03_Stacked%20Area%20Plot.jpg)
 
-We then generated transition (or cross-tabulation) matrices by calculating the annual area of change for all land cover transitions in QGIS. The change values from the cross-tabulation matrices were used to generate a Sankey diagram using an [online generator](https://sankey.csaladen.es/#) to visualise the land cover transitions at three time-periods, 1992–1997, 1997–2004, 2004–2015 ([Fig.5](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig05_Sankey%20Diagram.pdf) in the paper; Cuba 2015).
+We generated transition (or cross-tabulation) matrices by calculating the annual area of change for all land cover transitions in QGIS.
+We then used the transition matrices to conduct Intensity Analysis, a quantitative method to analyse land cover change over time for an area of interest to summarise the change within time-intervals whilst allowing the user to determine whether the changes observed in the maps are due to real transitions or map errors, and extracted information at three levels of analysis: interval, category, and transition, progressing from general analysis to more detailed, respectively.
 
-![fig-05](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig05_Sankey%20Diagram.jpg)
+For the identification step, we conducted an interval-level IA, in which we calculated the total landscape change (percentage of all map pixels changing category) for each time interval, from which we identified time intervals with either faster or slower rates of change than the interval-level uniform intensity. We then examined how the overall annual rates of change varied across time intervals to determine whether a regime shift occurred. We defined a regime shift as the period during which the overall annual rate of landscape change exceeded the uniform intensity for the entire interval range.
+
+Next, we characterised the land cover transitions during the regime shift and the (stable) land-cover regimes. We used the output transition matrices to produce a Sankey diagram using an [online generator](https://sankey.csaladen.es/#) to visualise the land cover transitions at three time-periods, 1992–1997, 1997–2004, 2004–2015, which illustrated the flows and patterns of gross land cover transitions in three time periods: pre-regime shift, during the regime shift, and post-regime shift ([Fig.5](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig05_Sankey%20Diagram.pdf) in the paper; Cuba 2015).
+
+![fig-05](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig05_Sankey%20Diagram.png)
+
+Additionally, category-level Intensity Analysis quantified the size (area) and intensity (proportion of all transitioning pixels) of gross losses and gross gains for each land cover category per interval, from which we identified active or dormant land cover categories. The category-level Intensity Analysis revealed that forest actively lost area over the period of the regime shift. We therefore conducted a transition-level Intensity Analysis to quantify the size, intensity, and specific destination land cover categories for forest losses during each interval. From these transitions, we determined systematic transitions of forest losses (i.e., deforestation) whether forest was systematically transitioning into another land cover category. This was a critical component in identifying systematic land cover transitions, and by extension the drivers, of forest conversion.
+
+
+
 
 *Scripts:* R scripts for generating a [stacked area plot](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Stacked-Area-Plot_Land-Cover-Transition.R) of annual net land cover change, and for generating barplots to visualise the results of the Intensity Analysis framework at the [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Interval-Level.R), [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Category-Level.R), and [transition](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Transition-Level.R) levels; and [JSON script](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/JSON/Script_Sankey-Diagram.json) for generating the Sankey diagram.
 
