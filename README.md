@@ -25,7 +25,7 @@ Regime shifts—rapid long-term transitions between stable states—are well doc
 | ![fig-01](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig01_Conceptual%20Framework.jpg) | ![fig-07](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig07_Ball%20%26%20Valley%20Diagram.jpg) |
 |:---:|:---:|
 <img src="https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig01_Conceptual%20Framework.jpg" width="300" />
-<img src="https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig01_Conceptual%20Framework.jpg" width="400" />
+<img src="https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig07_Ball%20%26%20Valley%20Diagram.jpg" width="400" />
 
 <a name="scripts"></a>
 ## Scripts
