@@ -24,11 +24,16 @@ Regime shifts—rapid long-term transitions between stable states—are well doc
 
 <a name="scripts"></a>
 ## Scripts
-The following scripts were used for preparing datasets, analysing datasets, and generating figures.
+We used the following scripts for preparing datasets, analysing datasets, and generating figures.
+
+#### Data Preparation
+The main spatial data source used for this investigation was the 24-year annual time-series [global land cover product (1992–2015)](https://www.esa-landcover-cci.org/?q=node/175) developed by the European Space Agency Climate Change Initiative (ESA CCI). We used the land cover maps to quantify annual land cover transitions between 1992 and 2015 and to investigate landscape-level land-cover regime shifts. To prepare the time-series land cover maps for analysis, we developed a script using [Google Earth Engine](https://earthengine.google.com/) (Gorelick et al. 2017). We defined the geographic areas of interest, particularly Tanintharyi Region (and its districts Dawei, Myeik, and Kawthoung), using the [Global Administrative Database](https://gadm.org/). We aggregated the detailed land cover categories within the study area into six broad classes, namely Forest, Mosaic Vegetation, Shrubland, Cropland, Other Vegetation, and Non-Vegetation (see [main text of supplementary material]((https://www.mdpi.com/2071-1050/11/4/1139#supplementary) for more information regarding the aggregation of land cover classes). After reclassification, we then masked out the pixels outside each specific area of interest prior to exporting the land cover maps for further data processing. 
+
+*Scripts:* [GEE script](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/GEE/GEE_Prepare%20ESA%20CCI%20Land%20Cover%20Maps.js) for preparing image subsets from the 24-year annual time-series global ESA CCI land cover product.
 
 #### Data Analysis
 
-*Scripts:* R scripts for generating a [stacked area plot](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Stacked-Area-Plot_Land-Cover-Transition.R) of annual net land cover change, and for generating barplots to visualise the results of the Intensity Analysis framework at the [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Interval-Level.R), [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Category-Level.R), and [transition](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Transition-Level.R) levels
+*Scripts:* R scripts for generating a [stacked area plot](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Stacked-Area-Plot_Land-Cover-Transition.R) of annual net land cover change, and for generating barplots to visualise the results of the Intensity Analysis framework at the [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Interval-Level.R), [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Category-Level.R), and [transition](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/R/R_Barplot_Intensity-Analysis-Transition-Level.R) levels.
 
 [JSON script](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/JSON/Script_Sankey-Diagram.json) for generating the Sankey diagram.
 
@@ -47,7 +52,7 @@ The following scripts were used for preparing datasets, analysing datasets, and 
 - Dawei District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS2_Interval-Level%20Intensity%20Analysis%20-%20Dawei.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS6_Category-Level%20Intensity%20Analysis%20-%20Dawei.pdf) levels
 - Myeik District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS3_Interval-Level%20Intensity%20Analysis%20-%20Myeik.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS7_Category-Level%20Intensity%20Analysis%20-%20Myeik.pdf) levels
 - Kawthoung District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS4_Interval-Level%20Intensity%20Analysis%20-%20Kawthoung.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS8_Category-Level%20Intensity%20Analysis%20-%20Kawthoung.pdf) levels
-2. [sunburst diagrams](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig06_Category-Level%20Intensity%20Analysis.pdf) for summarising the gross losses and gross gains among land cover categories at regional and district levels from the results of the category-level Intensity Analysis 
+2. [sunburst diagrams](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig06_Category-Level%20Intensity%20Analysis.pdf) for summarising the gross losses and gross gains among land cover categories at regional and district levels from the results of the category-level Intensity Analysis
 
 <a name="citation"></a>
 ## Citation
