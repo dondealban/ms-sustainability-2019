@@ -73,6 +73,9 @@ Additionally, category-level Intensity Analysis quantified the size (area) and i
 - Kawthoung District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS4_Interval-Level%20Intensity%20Analysis%20-%20Kawthoung.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS8_Category-Level%20Intensity%20Analysis%20-%20Kawthoung.pdf) levels
 3. [sunburst diagrams](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig06_Category-Level%20Intensity%20Analysis.pdf) for summarising the gross losses and gross gains among land cover categories at regional and district levels from the results of the category-level Intensity Analysis
 
+***Extras***
+- [QML files](https://github.com/dondealban/ms-sustainability-2019/tree/master/qml) for displaying land cover raster maps in QGIS
+
 <a name="citation"></a>
 ## Citation
 De Alban, J.D.T., G.W. Prescott, K.M. Woods, J. Jamaludin, K.T. Latt, C.L. Lim, A.C. Maung, E.L. Webb (2019). Integrating analytical frameworks to investigate land-cover regime shifts in dynamic landscapes. *Sustainability.* 11(4), 1139. [doi:10.3390/su11041139](https://doi.org/10.3390/su11041139)
