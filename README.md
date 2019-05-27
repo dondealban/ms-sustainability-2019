@@ -28,9 +28,9 @@ Regime shifts—rapid long-term transitions between stable states—are well doc
 ***Intensity Analysis***
 1. barplots for visualising results of Intensity Analysis at three levels—interval, category, and transition—for the region and for each district:
 - Tanintharyi Region: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig04_Interval-Level%20Intensity%20Analysis.pdf), [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS5_Category-Level%20Intensity%20Analysis.pdf), and [transition](https://github.com/dondealban/ms-sustainability-2019/tree/master/figures/intensity%20analysis) levels
-- Dawei District: interval and category levels
-- Myeik District: interval and category levels
-- Kawthoung District: interval and category levels
+- Dawei District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS2_Interval-Level%20Intensity%20Analysis%20-%20Dawei.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS6_Category-Level%20Intensity%20Analysis%20-%20Dawei.pdf) levels
+- Myeik District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS3_Interval-Level%20Intensity%20Analysis%20-%20Myeik.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS7_Category-Level%20Intensity%20Analysis%20-%20Myeik.pdf) levels
+- Kawthoung District: [interval](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS4_Interval-Level%20Intensity%20Analysis%20-%20Kawthoung.pdf) and [category](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_FigS8_Category-Level%20Intensity%20Analysis%20-%20Kawthoung.pdf) levels
 2.
 
 <a name="citation"></a>
