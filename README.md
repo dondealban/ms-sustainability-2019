@@ -30,7 +30,7 @@ Regime shifts—rapid long-term transitions between stable states—are well doc
 We used the following scripts for preparing datasets, analysing datasets, and generating figures.
 
 #### 1. Data Preparation
-The main spatial data source used for this investigation was the 24-year annual time-series [global land cover product (1992–2015)](https://www.esa-landcover-cci.org/?q=node/175) developed by the European Space Agency Climate Change Initiative (ESA CCI). We used the land cover maps to quantify annual land cover transitions between 1992 and 2015 and to investigate landscape-level land-cover regime shifts. To prepare the time-series land cover maps for analysis, we developed a script using [Google Earth Engine](https://earthengine.google.com/) (Gorelick et al. 2017). We defined the geographic areas of interest, particularly Tanintharyi Region (and its districts Dawei, Myeik, and Kawthoung), using the [Global Administrative Database](https://gadm.org/). We aggregated the detailed land cover categories within the study area into six broad classes, namely Forest, Mosaic Vegetation, Shrubland, Cropland, Other Vegetation, and Non-Vegetation (see [main text of supplementary material](https://www.mdpi.com/2071-1050/11/4/1139#supplementary) for more information regarding the aggregation of land cover classes). After reclassification, we then masked out the pixels outside each specific area of interest prior to exporting the land cover maps for further data processing ([Fig.2](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig02_Study%20Area.pdf) in the paper).
+The main spatial data source used for this investigation was the 24-year annual time-series [global land cover product (1992–2015)](https://www.esa-landcover-cci.org/?q=node/175) developed by the European Space Agency Climate Change Initiative (ESA CCI). We used the land cover maps to quantify annual land cover transitions between 1992 and 2015 and to investigate landscape-level land-cover regime shifts. To prepare the time-series land cover maps for analysis, we developed a script using [Google Earth Engine](https://earthengine.google.com/) [(Gorelick et al. 2017)](#gorelick_etal_2017). We defined the geographic areas of interest, particularly Tanintharyi Region (and its districts Dawei, Myeik, and Kawthoung), using the [Global Administrative Database](https://gadm.org/). We aggregated the detailed land cover categories within the study area into six broad classes, namely Forest, Mosaic Vegetation, Shrubland, Cropland, Other Vegetation, and Non-Vegetation (see [main text of supplementary material](https://www.mdpi.com/2071-1050/11/4/1139#supplementary) for more information regarding the aggregation of land cover classes). After reclassification, we then masked out the pixels outside each specific area of interest prior to exporting the land cover maps for further data processing ([Fig.2](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig02_Study%20Area.pdf) in the paper).
 
 ![fig-02](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig02_Study%20Area.jpg)
 
@@ -39,7 +39,7 @@ The main spatial data source used for this investigation was the 24-year annual 
 #### 2. Data Analysis
 We generated stacked area plots, Sankey diagrams, and conducted Intensity Analysis (Aldwaik & Pontius 2012) to identify and characterise the patterns and dynamics of the land-cover regime shift. Thereafter, we used the land-use regime shift analytical framework to explain the processes driving the regime shift (Ramankutty & Coomes 2016).
 
-We calculated the area of each land cover category per year using the `Land Cover Change` function of the `Semi-Automatic Classification Plugin` in [QGIS](https://qgis.org/en/site/) software (QGIS Development Team 2018), and used the calculated outputs to generate a stacked area plot ([Fig.3](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig03_Stacked%20Area%20Plot.pdf) in the paper) using [R software](https://www.r-project.org/) (R Core Team 2016). The plot tracked the proportion of the total map area comprising each land cover category over the 24-year period.
+We calculated the area of each land cover category per year using the `Land Cover Change` function of the `Semi-Automatic Classification Plugin` in [QGIS](https://qgis.org/en/site/) software [(QGIS Development Team 2018)](#qgis_2018), and used the calculated outputs to generate a stacked area plot ([Fig.3](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig03_Stacked%20Area%20Plot.pdf) in the paper) using [R software](https://www.r-project.org/) [(R Core Team 2016)](#rcore_2016). The plot tracked the proportion of the total map area comprising each land cover category over the 24-year period.
 
 We generated transition (or cross-tabulation) matrices by calculating the annual area of change for all land cover transitions in QGIS. We then used the transition matrices to conduct Intensity Analysis, a quantitative method to analyse land cover change over time for an area of interest to summarise the change within time-intervals whilst allowing the user to determine whether the changes observed in the maps are due to real transitions or map errors, and extracted information at three levels of analysis: interval, category, and transition, progressing from general analysis to more detailed, respectively.
 
@@ -99,6 +99,20 @@ De Alban, J.D.T., G.W. Prescott, K.M. Woods, J. Jamaludin, K.T. Latt, C.L. Lim, 
 	pages = {1139}
 }
 ```
+
+<a name="references"></a>
+## References
+
+<a name="gorelick_etal_2017"></a>
+Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D. & Moore, R. (2017) Google Earth Engine: planetary-scale geospatial analysis for everyone. *Remote Sensing of Environment*, 202, 18–27. [doi:10.1016/j.rse.2017.06.031](https://doi.org/10.1016/j.rse.2017.06.031)
+
+<a name="qgis_2018"></a>
+QGIS Development Team (2018) QGIS Geographic Information System. Open Source Geospatial Foundation Project.
+
+<a name="rcore_2016"></a>
+R Core Team (2016) R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria.
+
+
 
 <a name="license"></a>
 ## License
