@@ -37,7 +37,7 @@ The main spatial data source used for this investigation was the 24-year annual 
 *Scripts:* [GEE script](https://github.com/dondealban/ms-sustainability-2019/blob/master/scripts/GEE/GEE_Prepare%20ESA%20CCI%20Land%20Cover%20Maps.js) for preparing image subsets from the 24-year annual time-series global ESA CCI land cover product.
 
 #### 2. Data Analysis
-We generated stacked area plots, Sankey diagrams, and conducted Intensity Analysis (Aldwaik & Pontius 2012) to identify and characterise the patterns and dynamics of the land-cover regime shift. Thereafter, we used the land-use regime shift analytical framework to explain the processes driving the regime shift (Ramankutty & Coomes 2016).
+We generated stacked area plots, Sankey diagrams, and conducted Intensity Analysis [(Aldwaik & Pontius 2012)](#aldwaik_pontius_2012) to identify and characterise the patterns and dynamics of the land-cover regime shift. Thereafter, we used the land-use regime shift analytical framework to explain the processes driving the regime shift [(Ramankutty & Coomes 2016)](#ramankutty_coomes_2016).
 
 We calculated the area of each land cover category per year using the `Land Cover Change` function of the `Semi-Automatic Classification Plugin` in [QGIS](https://qgis.org/en/site/) software [(QGIS Development Team 2018)](#qgis_2018), and used the calculated outputs to generate a stacked area plot ([Fig.3](https://github.com/dondealban/ms-sustainability-2019/blob/master/figures/paper/De%20Alban%20et%20al_2019_Fig03_Stacked%20Area%20Plot.pdf) in the paper) using [R software](https://www.r-project.org/) [(R Core Team 2016)](#rcore_2016). The plot tracked the proportion of the total map area comprising each land cover category over the 24-year period.
 
@@ -103,8 +103,11 @@ De Alban, J.D.T., G.W. Prescott, K.M. Woods, J. Jamaludin, K.T. Latt, C.L. Lim, 
 <a name="references"></a>
 ## References
 
+<a name="aldwaik_pontius_2012"></a>
+Aldwaik, S.Z., Pontius, R.G. (2012) Intensity analysis to unify measurements of size and stationarity of land changes by interval, category, and transition. *Landscape and Urban Planning*, 202, 18–27. [doi:10.1016/j.landurbplan.2012.02.010](https://doi.org/10.1016/j.landurbplan.2012.02.010)
+
 <a name="gorelick_etal_2017"></a>
-Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D. & Moore, R. (2017) Google Earth Engine: planetary-scale geospatial analysis for everyone. *Remote Sensing of Environment*, 202, 18–27. [doi:10.1016/j.rse.2017.06.031](https://doi.org/10.1016/j.rse.2017.06.031)
+Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D. & Moore, R. (2017) Google Earth Engine: planetary-scale geospatial analysis for everyone. *Remote Sensing of Environment*, 106(1), 103–114. [doi:10.1016/j.rse.2017.06.031](https://doi.org/10.1016/j.rse.2017.06.031)
 
 <a name="qgis_2018"></a>
 QGIS Development Team (2018) QGIS Geographic Information System. Open Source Geospatial Foundation Project.
@@ -112,7 +115,8 @@ QGIS Development Team (2018) QGIS Geographic Information System. Open Source Geo
 <a name="rcore_2016"></a>
 R Core Team (2016) R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria.
 
-
+<a name="ramankutty_coomes_2016"></a>
+Ramankutty, N., Coomes, O. (2016) Land-use regime shifts: an analytical framework and agenda for future land-use research. *Ecology and Society*, 21(2). [doi:10.5751/ES-08370-210201](https://doi.org/10.5751/ES-08370-210201)
 
 <a name="license"></a>
 ## License
