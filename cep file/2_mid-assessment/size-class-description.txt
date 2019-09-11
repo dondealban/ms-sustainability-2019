@@ -1,9 +1,0 @@
-In greater detail, 
-Small: 0 - 20 (%) of polygon, sporadically distributed
-Medium: 20 - 50 (%), some contiguous patches
-Large: more than 50 (%), extensive patches, widespread
-NA: not of interest*
-
-* e.g. We are not interested in estimating how much forest (small/medium/large) is within a polygon.
-
-These criteria were set to get a general estimation of how much a specific land cover type (i.e. plantations) existed within a sampled polygon in the visual assessment. Polygons were created from homogeneous contiguous pixels belonging to one of three land cover change transitions (forest into cropland, mosaic vegetation and shrubland).
