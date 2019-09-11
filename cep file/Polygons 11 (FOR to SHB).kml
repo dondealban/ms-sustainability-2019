@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Polygons_11__FOR_to_SHB_" id="Polygons_11__FOR_to_SHB_">
+	<SimpleField name="DN" type="int"></SimpleField>
+</Schema>
+<Folder><name>Polygons_11__FOR_to_SHB_</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3574387735305,14.167330345849 98.3601337193829,14.167330345849 98.3601337193829,14.1646353999966 98.3574387735305,14.1646353999966 98.3574387735305,14.167330345849</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9341571859353,10.9603447815423 98.9422420234923,10.9603447815423 98.9422420234923,10.9414801605758 98.93954707764,10.9414801605758 98.9341571859353,10.9414801605758 98.9341571859353,10.9468700522805 98.9314622400829,10.9468700522805 98.9314622400829,10.9495649981328 98.9341571859353,10.9495649981328 98.9341571859353,10.9603447815423</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9422420234923,10.8794964059715 98.9476319151971,10.8794964059715 98.9476319151971,10.8768014601192 98.9449369693447,10.8768014601192 98.9449369693447,10.8741065142668 98.9422420234923,10.8741065142668 98.9422420234923,10.8794964059715</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7374261387131,10.7366642757965 98.7401210845655,10.7366642757965 98.7401210845655,10.7312743840918 98.7374261387131,10.7312743840918 98.7374261387131,10.7366642757965</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6053737919475,10.2973881018621 98.6107636836522,10.2973881018621 98.6107636836522,10.2946931560097 98.6053737919475,10.2946931560097 98.6053737919475,10.2973881018621</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6996968967801,14.167330345849 98.7077817343371,14.167330345849 98.7077817343371,14.1619404541443 98.7023918426324,14.1619404541443 98.7023918426324,14.1646353999966 98.6996968967801,14.1646353999966 98.6996968967801,14.167330345849</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0338701824725,11.7418790787263 99.0392600741772,11.7418790787263 99.0392600741772,11.7364891870215 99.0419550200296,11.7364891870215 99.0419550200296,11.7337942411692 99.0392600741772,11.7337942411692 99.0365651283249,11.7337942411692 99.0365651283249,11.7364891870215 99.0338701824725,11.7364891870215 99.0338701824725,11.7337942411692 99.0311752366202,11.7337942411692 99.0311752366202,11.7391841328739 99.0338701824725,11.7391841328739 99.0338701824725,11.7418790787263</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0284802907678,12.5449729427291 99.0311752366202,12.5449729427291 99.0311752366202,12.536888105172 99.0284802907678,12.536888105172 99.0284802907678,12.5449729427291</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8694784854787,14.0137184322645 98.872173431331,14.0137184322645 98.872173431331,14.0110234864122 98.8694784854787,14.0110234864122 98.8694784854787,14.0137184322645</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.0044008668716,14.4583844979037 98.0070958127239,14.4583844979037 98.0070958127239,14.4556895520513 98.0097907585763,14.4556895520513 98.0097907585763,14.4583844979037 98.015180650281,14.4583844979037 98.015180650281,14.452994606199 98.0124857044286,14.452994606199 98.0097907585763,14.452994606199 98.0097907585763,14.4502996603466 98.0044008668716,14.4502996603466 98.0044008668716,14.4583844979037</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9179875108211,11.461604710081 98.9260723483782,11.461604710081 98.9260723483782,11.4589097642286 98.9233774025258,11.4589097642286 98.9233774025258,11.4535198725239 98.9260723483782,11.4535198725239 98.9260723483782,11.4508249266715 98.9233774025258,11.4508249266715 98.9125976191164,11.4508249266715 98.9125976191164,11.4427400891145 98.9072077274117,11.4427400891145 98.9072077274117,11.4508249266715 98.909902673264,11.4508249266715 98.909902673264,11.4562148183763 98.9152925649688,11.4562148183763 98.9179875108211,11.4562148183763 98.9179875108211,11.461604710081</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9341571859353,11.2810433379729 98.9422420234923,11.2810433379729 98.9422420234923,11.2756534462682 98.93954707764,11.2756534462682 98.93954707764,11.2729585004159 98.9368521317876,11.2729585004159 98.9368521317876,11.2783483921206 98.9341571859353,11.2783483921206 98.9341571859353,11.2810433379729</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7643755972367,11.0573628322272 98.767070543089,11.0573628322272 98.767070543089,11.0546678863748 98.7643755972367,11.0546678863748 98.7643755972367,11.0573628322272</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.2306012296947,11.9763393678815 99.2359911213994,11.9763393678815 99.2359911213994,11.9682545303244 99.2306012296947,11.9682545303244 99.2306012296947,11.9763393678815</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8667835396263,14.1188213205065 98.8694784854787,14.1188213205065 98.8694784854787,14.1161263746542 98.8667835396263,14.1161263746542 98.8667835396263,14.1188213205065</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.5460849831956,14.2023646419296 98.548779929048,14.2023646419296 98.548779929048,14.1969747502249 98.5460849831956,14.1969747502249 98.5460849831956,14.2023646419296</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6026788460952,10.2946931560097 98.6053737919475,10.2946931560097 98.6053737919475,10.2919982101574 98.6026788460952,10.2919982101574 98.6026788460952,10.2946931560097</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8694784854787,10.8175126513673 98.8802582688881,10.8175126513673 98.8802582688881,10.8094278138102 98.8694784854787,10.8094278138102 98.8694784854787,10.8175126513673</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.93954707764,12.5827021846621 98.9422420234923,12.5827021846621 98.9422420234923,12.5800072388098 98.93954707764,12.5800072388098 98.93954707764,12.5827021846621</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9449369693447,12.8441119323409 98.9476319151971,12.8441119323409 98.9476319151971,12.8387220406362 98.9503268610494,12.8387220406362 98.9503268610494,12.8360270947838 98.9557167527541,12.8360270947838 98.9557167527541,12.8306372030791 98.9611066444589,12.8306372030791 98.9611066444589,12.8252473113744 98.9584116986065,12.8252473113744 98.9530218069018,12.8252473113744 98.9530218069018,12.8279422572268 98.9503268610494,12.8279422572268 98.9503268610494,12.8306372030791 98.9476319151971,12.8306372030791 98.9476319151971,12.8360270947838 98.9449369693447,12.8360270947838 98.9449369693447,12.8387220406362 98.93954707764,12.8387220406362 98.93954707764,12.8414169864886 98.9422420234923,12.8414169864886 98.9449369693447,12.8414169864886 98.9449369693447,12.8441119323409</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3628286652353,14.2023646419296 98.3655236110876,14.2023646419296 98.3655236110876,14.1996696960773 98.3628286652353,14.1996696960773 98.3628286652353,14.2023646419296</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9584116986065,13.2645234853089 98.9611066444589,13.2645234853089 98.9611066444589,13.2618285394565 98.9584116986065,13.2618285394565 98.9584116986065,13.2645234853089</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6673575465518,10.8175126513673 98.6727474382565,10.8175126513673 98.6727474382565,10.8148177055149 98.6754423841088,10.8148177055149 98.6754423841088,10.8067328679578 98.6727474382565,10.8067328679578 98.6673575465518,10.8067328679578 98.6673575465518,10.8094278138102 98.6646626006994,10.8094278138102 98.6646626006994,10.8121227596626 98.6673575465518,10.8121227596626 98.6673575465518,10.8175126513673</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3709135027923,14.38562095989 98.376303394497,14.38562095989 98.376303394497,14.3802310681853 98.3709135027923,14.3802310681853 98.3709135027923,14.38562095989</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9853611571301,13.8358520060089 98.9907510488348,13.8358520060089 98.9907510488348,13.8331570601565 98.9853611571301,13.8331570601565 98.9853611571301,13.8358520060089</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.4248124198395,14.2266191546009 98.4598467159202,14.2266191546009 98.4598467159202,14.2239242087485 98.4571517700678,14.2239242087485 98.4571517700678,14.2212292628961 98.4598467159202,14.2212292628961 98.4598467159202,14.2185343170438 98.4571517700678,14.2185343170438 98.4571517700678,14.2158393711914 98.4598467159202,14.2158393711914 98.4598467159202,14.2104494794867 98.4706264993296,14.2104494794867 98.4706264993296,14.205059587782 98.4679315534772,14.205059587782 98.4679315534772,14.2077545336344 98.4598467159202,14.2077545336344 98.4598467159202,14.205059587782 98.4625416617725,14.205059587782 98.4625416617725,14.1996696960773 98.4706264993296,14.1996696960773 98.4706264993296,14.1915848585202 98.4679315534772,14.1915848585202 98.4598467159202,14.1915848585202 98.4598467159202,14.1835000209631 98.4571517700678,14.1835000209631 98.4409820949537,14.1835000209631 98.4409820949537,14.1808050751108 98.4382871491013,14.1808050751108 98.4382871491013,14.1835000209631 98.4355922032489,14.1835000209631 98.4355922032489,14.1781101292584 98.4409820949537,14.1781101292584 98.4409820949537,14.1727202375537 98.4382871491013,14.1727202375537 98.4382871491013,14.167330345849 98.4355922032489,14.167330345849 98.4328972573966,14.167330345849 98.4328972573966,14.1565505624395 98.4463719866584,14.1565505624395 98.4463719866584,14.1511606707348 98.443677040806,14.1511606707348 98.4302023115442,14.1511606707348 98.4302023115442,14.1484657248825 98.4275073656919,14.1484657248825 98.4248124198395,14.1484657248825 98.4248124198395,14.129601103916 98.4328972573966,14.129601103916 98.4328972573966,14.1107364829494 98.4302023115442,14.1107364829494 98.4167275822824,14.1107364829494 98.4167275822824,14.1134314288018 98.4140326364301,14.1134314288018 98.4140326364301,14.1215162663589 98.4167275822824,14.1215162663589 98.4167275822824,14.1242112122112 98.4140326364301,14.1242112122112 98.4140326364301,14.129601103916 98.4167275822824,14.129601103916 98.4167275822824,14.1349909956207 98.4140326364301,14.1349909956207 98.4140326364301,14.137685941473 98.4113376905777,14.137685941473 98.4113376905777,14.1349909956207 98.4086427447254,14.1349909956207 98.4086427447254,14.137685941473 98.405947798873,14.137685941473 98.405947798873,14.129601103916 98.3978629613159,14.129601103916 98.3978629613159,14.137685941473 98.3897781237588,14.137685941473 98.3897781237588,14.1403808873254 98.3924730696112,14.1403808873254 98.3951680154636,14.1403808873254 98.3951680154636,14.1457707790301 98.3924730696112,14.1457707790301 98.3924730696112,14.1511606707348 98.3897781237588,14.1511606707348 98.3897781237588,14.1565505624395 98.3978629613159,14.1565505624395 98.3978629613159,14.1538556165872 98.4032528530206,14.1538556165872 98.4032528530206,14.1511606707348 98.405947798873,14.1511606707348 98.405947798873,14.1700252917013 98.4086427447254,14.1700252917013 98.4086427447254,14.1781101292584 98.405947798873,14.1781101292584 98.405947798873,14.175415183406 98.3978629613159,14.175415183406 98.3978629613159,14.1835000209631 98.3897781237588,14.1835000209631 98.3897781237588,14.175415183406 98.3816932862018,14.175415183406 98.3816932862018,14.1835000209631 98.376303394497,14.1835000209631 98.376303394497,14.1888899126678 98.3709135027923,14.1888899126678 98.3709135027923,14.1915848585202 98.3816932862018,14.1915848585202 98.3843882320541,14.1915848585202 98.3843882320541,14.1942798043726 98.3870831779065,14.1942798043726 98.3870831779065,14.1996696960773 98.3897781237588,14.1996696960773 98.3897781237588,14.1915848585202 98.3924730696112,14.1915848585202 98.3924730696112,14.1888899126678 98.3978629613159,14.1888899126678 98.3978629613159,14.1861949668155 98.4005579071683,14.1861949668155 98.4005579071683,14.1915848585202 98.4032528530206,14.1915848585202 98.405947798873,14.1915848585202 98.405947798873,14.1996696960773 98.4086427447254,14.1996696960773 98.4113376905777,14.1996696960773 98.4113376905777,14.205059587782 98.4086427447254,14.205059587782 98.4086427447254,14.2077545336344 98.405947798873,14.2077545336344 98.405947798873,14.2104494794867 98.4113376905777,14.2104494794867 98.4140326364301,14.2104494794867 98.4140326364301,14.2185343170438 98.4221174739871,14.2185343170438 98.4248124198395,14.2185343170438 98.4248124198395,14.2266191546009</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.4409820949537,14.1915848585202 98.4490669325107,14.1915848585202 98.4517618783631,14.1915848585202 98.4517618783631,14.1969747502249 98.4490669325107,14.1969747502249 98.4490669325107,14.1996696960773 98.4382871491013,14.1996696960773 98.4382871491013,14.1888899126678 98.4409820949537,14.1888899126678 98.4409820949537,14.1915848585202</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.4382871491013,14.2239242087485 98.4382871491013,14.2212292628961 98.4409820949537,14.2212292628961 98.4409820949537,14.2239242087485 98.4382871491013,14.2239242087485</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.4409820949537,14.2212292628961 98.4409820949537,14.2185343170438 98.443677040806,14.2185343170438 98.443677040806,14.2212292628961 98.4409820949537,14.2212292628961</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.4086427447254,14.1942798043726 98.4086427447254,14.1915848585202 98.405947798873,14.1915848585202 98.405947798873,14.1835000209631 98.4140326364301,14.1835000209631 98.4140326364301,14.1808050751108 98.4167275822824,14.1808050751108 98.4167275822824,14.1835000209631 98.4194225281348,14.1835000209631 98.4194225281348,14.1808050751108 98.4248124198395,14.1808050751108 98.4248124198395,14.175415183406 98.4302023115442,14.175415183406 98.4328972573966,14.175415183406 98.4328972573966,14.1835000209631 98.4248124198395,14.1835000209631 98.4248124198395,14.1915848585202 98.4140326364301,14.1915848585202 98.4140326364301,14.1942798043726 98.4086427447254,14.1942798043726</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.4248124198395,14.175415183406 98.4221174739871,14.175415183406 98.4221174739871,14.167330345849 98.4248124198395,14.167330345849 98.4248124198395,14.1646353999966 98.4275073656919,14.1646353999966 98.4275073656919,14.1700252917013 98.4248124198395,14.1700252917013 98.4248124198395,14.175415183406</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.443677040806,14.2239242087485 98.443677040806,14.2212292628961 98.4490669325107,14.2212292628961 98.4490669325107,14.2239242087485 98.443677040806,14.2239242087485</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.4194225281348,14.2077545336344 98.4194225281348,14.2023646419296 98.4221174739871,14.2023646419296 98.4221174739871,14.1996696960773 98.4275073656919,14.1996696960773 98.4275073656919,14.1969747502249 98.4302023115442,14.1969747502249 98.4328972573966,14.1969747502249 98.4328972573966,14.2185343170438 98.4248124198395,14.2185343170438 98.4248124198395,14.2077545336344 98.4221174739871,14.2077545336344 98.4194225281348,14.2077545336344</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.4005579071683,14.137685941473 98.4005579071683,14.1349909956207 98.4032528530206,14.1349909956207 98.4032528530206,14.137685941473 98.4005579071683,14.137685941473</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.4167275822824,14.1188213205065 98.4167275822824,14.1161263746542 98.4248124198395,14.1161263746542 98.4248124198395,14.1188213205065 98.4167275822824,14.1188213205065</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.3924730696112,14.1538556165872 98.3924730696112,14.1511606707348 98.3951680154636,14.1511606707348 98.3951680154636,14.1538556165872 98.3924730696112,14.1538556165872</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0581246951438,11.6313862987796 99.0635145868485,11.6313862987796 99.0635145868485,11.6286913529272 99.0662095327008,11.6286913529272 99.0662095327008,11.6313862987796 99.0742943702579,11.6313862987796 99.0742943702579,11.6286913529272 99.0715994244056,11.6286913529272 99.0715994244056,11.6259964070748 99.0689044785532,11.6259964070748 99.0689044785532,11.6206065153701 99.0662095327008,11.6206065153701 99.0662095327008,11.6152166236654 99.0635145868485,11.6152166236654 99.0635145868485,11.6071317861083 99.0608196409961,11.6071317861083 99.0608196409961,11.6179115695178 99.0581246951438,11.6179115695178 99.0581246951438,11.6313862987796</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7374261387131,10.7258844923871 98.7428160304178,10.7258844923871 98.7428160304178,10.7204946006824 98.7401210845655,10.7204946006824 98.7401210845655,10.7231895465347 98.7374261387131,10.7231895465347 98.7374261387131,10.7258844923871</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>97.8453990615824,14.7440487582537 97.8480940074348,14.7440487582537 97.8480940074348,14.7413538124013 97.8453990615824,14.7413538124013 97.8453990615824,14.7440487582537</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.5945940085381,10.7204946006824 98.5972889543905,10.7204946006824 98.5972889543905,10.71779965483 98.5945940085381,10.71779965483 98.5945940085381,10.7204946006824</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.5539947319777,11.7796083206593 99.5566896778301,11.7796083206593 99.5566896778301,11.7769133748069 99.5539947319777,11.7769133748069 99.5539947319777,11.7796083206593</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9260723483782,12.2566137365268 98.9341571859353,12.2566137365268 98.9341571859353,12.243139007265 98.9314622400829,12.243139007265 98.9314622400829,12.2404440614126 98.9260723483782,12.2404440614126 98.9260723483782,12.2566137365268</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8694784854787,12.2566137365268 98.872173431331,12.2566137365268 98.872173431331,12.2485288989697 98.8748683771834,12.2485288989697 98.8748683771834,12.243139007265 98.8694784854787,12.243139007265 98.8694784854787,12.2566137365268</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.5162654900447,11.8442870211159 99.5243503276018,11.8442870211159 99.5243503276018,11.8415920752635 99.5216553817494,11.8415920752635 99.5216553817494,11.8362021835588 99.5135705441924,11.8362021835588 99.5135705441924,11.8415920752635 99.5162654900447,11.8415920752635 99.5162654900447,11.8442870211159</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.1849622389796,14.6820650036495 98.1903521306843,14.6820650036495 98.1903521306843,14.6793700577971 98.1849622389796,14.6793700577971 98.1849622389796,14.6820650036495</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.2710254174801,11.7769133748069 99.2737203633324,11.7769133748069 99.2737203633324,11.7742184289546 99.2791102550372,11.7742184289546 99.2791102550372,11.7715234831022 99.2710254174801,11.7715234831022 99.2710254174801,11.7769133748069</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8209694601362,10.8040379221055 98.8236644059886,10.8040379221055 98.8236644059886,10.8013429762531 98.8209694601362,10.8013429762531 98.8209694601362,10.8040379221055</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.5784243334239,10.0898772712305 98.5811192792763,10.0898772712305 98.5811192792763,10.0844873795257 98.5784243334239,10.0844873795257 98.5784243334239,10.0898772712305</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3358792067117,14.2670433423862 98.338574152564,14.2670433423862 98.338574152564,14.2643483965339 98.3358792067117,14.2643483965339 98.3358792067117,14.2670433423862</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.758985705532,12.1919350360701 98.7616806513843,12.1919350360701 98.7616806513843,12.1892400902178 98.7643755972367,12.1892400902178 98.7643755972367,12.1838501985131 98.7616806513843,12.1838501985131 98.7535958138272,12.1838501985131 98.7535958138272,12.1865451443654 98.7562907596796,12.1865451443654 98.7562907596796,12.1892400902178 98.758985705532,12.1892400902178 98.758985705532,12.1919350360701</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6754423841088,10.71779965483 98.6781373299612,10.71779965483 98.6781373299612,10.7151047089777 98.6808322758136,10.7151047089777 98.6808322758136,10.7124097631253 98.6781373299612,10.7124097631253 98.6727474382565,10.7124097631253 98.6727474382565,10.7151047089777 98.6754423841088,10.7151047089777 98.6754423841088,10.71779965483</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.5380001456386,10.0871823253781 98.5406950914909,10.0871823253781 98.5406950914909,10.0844873795257 98.5380001456386,10.0844873795257 98.5380001456386,10.0871823253781</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9664965361636,12.3509368413593 98.9691914820159,12.3509368413593 98.9691914820159,12.3482418955069 98.9664965361636,12.3482418955069 98.9664965361636,12.3509368413593</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.0556048380664,14.5176733066556 98.0582997839187,14.5176733066556 98.0582997839187,14.5149783608032 98.0556048380664,14.5149783608032 98.0556048380664,14.5176733066556</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9233774025258,12.7147545314277 98.9260723483782,12.7147545314277 98.9260723483782,12.7120595855753 98.9233774025258,12.7120595855753 98.9233774025258,12.7147545314277</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.4921860661485,10.7124097631253 98.4948810120008,10.7124097631253 98.4948810120008,10.7043249255682 98.4921860661485,10.7043249255682 98.4921860661485,10.7124097631253</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>97.9262474371532,14.986593884966 97.9316373288579,14.986593884966 97.9316373288579,14.9838989391136 97.9343322747102,14.9838989391136 97.9343322747102,14.9812039932613 97.9370272205626,14.9812039932613 97.9370272205626,14.9785090474089 97.9343322747102,14.9785090474089 97.9343322747102,14.9623393722947 97.9316373288579,14.9623393722947 97.9316373288579,14.9650343181471 97.9289423830055,14.9650343181471 97.9289423830055,14.9704242098518 97.9316373288579,14.9704242098518 97.9316373288579,14.9758141015565 97.9289423830055,14.9758141015565 97.9289423830055,14.9785090474089 97.9262474371532,14.9785090474089 97.9262474371532,14.986593884966</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.5191355246721,10.650426008521 98.5218304705244,10.650426008521 98.5218304705244,10.6477310626687 98.5191355246721,10.6477310626687 98.5191355246721,10.650426008521</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6646626006994,10.7285794382394 98.6700524924041,10.7285794382394 98.6700524924041,10.7258844923871 98.6727474382565,10.7258844923871 98.6727474382565,10.7231895465347 98.6700524924041,10.7231895465347 98.6673575465518,10.7231895465347 98.6673575465518,10.7124097631253 98.6700524924041,10.7124097631253 98.6700524924041,10.7043249255682 98.6727474382565,10.7043249255682 98.6727474382565,10.7070198714206 98.6754423841088,10.7070198714206 98.6754423841088,10.7016299797159 98.6727474382565,10.7016299797159 98.6673575465518,10.7016299797159 98.6673575465518,10.7043249255682 98.6619676548471,10.7043249255682 98.6619676548471,10.7016299797159 98.6565777631423,10.7016299797159 98.6565777631423,10.7043249255682 98.65388281729,10.7043249255682 98.65388281729,10.7070198714206 98.6511878714376,10.7070198714206 98.6511878714376,10.7124097631253 98.65388281729,10.7124097631253 98.6565777631423,10.7124097631253 98.6565777631423,10.7258844923871 98.6592727089947,10.7258844923871 98.6592727089947,10.7151047089777 98.6619676548471,10.7151047089777 98.6619676548471,10.7204946006824 98.6646626006994,10.7204946006824 98.6646626006994,10.7285794382394</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0203954532107,13.4127455071886 99.0230903990631,13.4127455071886 99.0230903990631,13.4100505613362 99.0203954532107,13.4100505613362 99.0203954532107,13.4127455071886</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9826662112777,13.1405559761004 98.9853611571301,13.1405559761004 98.9853611571301,13.1351660843956 98.9826662112777,13.1351660843956 98.9826662112777,13.1405559761004</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3628286652353,14.6766751119447 98.3655236110876,14.6766751119447 98.3655236110876,14.6739801660924 98.3628286652353,14.6739801660924 98.3628286652353,14.6766751119447</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.691612059223,10.4752545281177 98.6943070050754,10.4752545281177 98.6943070050754,10.469864636413 98.691612059223,10.469864636413 98.691612059223,10.4752545281177</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6808322758136,10.4752545281177 98.6835272216659,10.4752545281177 98.6835272216659,10.4725595822654 98.6808322758136,10.4725595822654 98.6808322758136,10.4752545281177</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0742943702579,11.6098267319607 99.0850741536673,11.6098267319607 99.0850741536673,11.6071317861083 99.082379207815,11.6071317861083 99.082379207815,11.5963520026989 99.0850741536673,11.5963520026989 99.0850741536673,11.5936570568465 99.082379207815,11.5936570568465 99.0742943702579,11.5936570568465 99.0742943702579,11.5963520026989 99.0715994244056,11.5963520026989 99.0715994244056,11.6017418944036 99.0742943702579,11.6017418944036 99.0742943702579,11.6098267319607</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6107636836522,14.1942798043726 98.6134586295046,14.1942798043726 98.6134586295046,14.1915848585202 98.6107636836522,14.1915848585202 98.6107636836522,14.1942798043726</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6970019509277,14.1592455082919 98.6996968967801,14.1592455082919 98.6996968967801,14.1565505624395 98.6970019509277,14.1565505624395 98.6970019509277,14.1592455082919</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9449369693447,12.6635505602329 98.9476319151971,12.6635505602329 98.9476319151971,12.641990993414 98.9449369693447,12.641990993414 98.9449369693447,12.6446859392664 98.9422420234923,12.6446859392664 98.9422420234923,12.6285162641522 98.93954707764,12.6285162641522 98.93954707764,12.6258213182999 98.9449369693447,12.6258213182999 98.9449369693447,12.6231263724475 98.9422420234923,12.6231263724475 98.9368521317876,12.6231263724475 98.9368521317876,12.6204314265952 98.9341571859353,12.6204314265952 98.9341571859353,12.6231263724475 98.9287672942306,12.6231263724475 98.9287672942306,12.6204314265952 98.9233774025258,12.6204314265952 98.9233774025258,12.6231263724475 98.9260723483782,12.6231263724475 98.9260723483782,12.6285162641522 98.9287672942306,12.6285162641522 98.9287672942306,12.633906155857 98.9314622400829,12.633906155857 98.9314622400829,12.6312112100046 98.9341571859353,12.6312112100046 98.9341571859353,12.6366011017093 98.9368521317876,12.6366011017093 98.9368521317876,12.6392960475617 98.9314622400829,12.6392960475617 98.9314622400829,12.641990993414 98.9287672942306,12.641990993414 98.9287672942306,12.6392960475617 98.9233774025258,12.6392960475617 98.9233774025258,12.6446859392664 98.9260723483782,12.6446859392664 98.9260723483782,12.6473808851187 98.9287672942306,12.6473808851187 98.9287672942306,12.6446859392664 98.9314622400829,12.6446859392664 98.9314622400829,12.6473808851187 98.9368521317876,12.6473808851187 98.93954707764,12.6473808851187 98.93954707764,12.6527707768235 98.9368521317876,12.6527707768235 98.9368521317876,12.6554657226758 98.9422420234923,12.6554657226758 98.9422420234923,12.6500758309711 98.9449369693447,12.6500758309711 98.9449369693447,12.6635505602329</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.9287672942306,12.6285162641522 98.9287672942306,12.6258213182999 98.9314622400829,12.6258213182999 98.9314622400829,12.6285162641522 98.9287672942306,12.6285162641522</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7832402182032,14.0757021868688 98.7859351640555,14.0757021868688 98.7859351640555,14.0730072410164 98.7832402182032,14.0730072410164 98.7832402182032,14.0757021868688</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8317492435456,13.1594205970669 98.834444189398,13.1594205970669 98.834444189398,13.1540307053622 98.8452239728074,13.1540307053622 98.8452239728074,13.1513357595098 98.8425290269551,13.1513357595098 98.8425290269551,13.1459458678051 98.8398340811027,13.1459458678051 98.8398340811027,13.1432509219527 98.8371391352504,13.1432509219527 98.8317492435456,13.1432509219527 98.8317492435456,13.1405559761004 98.8290542976933,13.1405559761004 98.8290542976933,13.137861030248 98.8263593518409,13.137861030248 98.8155795684315,13.137861030248 98.8155795684315,13.1351660843956 98.8128846225791,13.1351660843956 98.8128846225791,13.1297761926909 98.8101896767268,13.1297761926909 98.8074947308744,13.1297761926909 98.8074947308744,13.1324711385433 98.8101896767268,13.1324711385433 98.8101896767268,13.1459458678051 98.8021048391697,13.1459458678051 98.8021048391697,13.1540307053622 98.8074947308744,13.1540307053622 98.8074947308744,13.1513357595098 98.8101896767268,13.1513357595098 98.8101896767268,13.1567256512145 98.8155795684315,13.1567256512145 98.8155795684315,13.1540307053622 98.8182745142839,13.1540307053622 98.8182745142839,13.1513357595098 98.8155795684315,13.1513357595098 98.8155795684315,13.1459458678051 98.8209694601362,13.1459458678051 98.8209694601362,13.1513357595098 98.8263593518409,13.1513357595098 98.8290542976933,13.1513357595098 98.8290542976933,13.1567256512145 98.8317492435456,13.1567256512145 98.8317492435456,13.1594205970669</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.8155795684315,13.1432509219527 98.8155795684315,13.1405559761004 98.8182745142839,13.1405559761004 98.8182745142839,13.1432509219527 98.8155795684315,13.1432509219527</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6188485212093,13.1297761926909 98.6215434670617,13.1297761926909 98.6215434670617,13.1270812468386 98.6188485212093,13.1270812468386 98.6188485212093,13.1297761926909</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9718864278683,13.3507617525843 98.9745813737207,13.3507617525843 98.9745813737207,13.348066806732 98.9799712654254,13.348066806732 98.9799712654254,13.3507617525843 98.9826662112777,13.3507617525843 98.9826662112777,13.348066806732 98.9853611571301,13.348066806732 98.9853611571301,13.3453718608796 98.9880561029824,13.3453718608796 98.9880561029824,13.3426769150273 98.9934459946872,13.3426769150273 98.9934459946872,13.3453718608796 98.9988358863919,13.3453718608796 98.9988358863919,13.3399819691749 99.0015308322442,13.3399819691749 99.0015308322442,13.3372870233225 98.9988358863919,13.3372870233225 98.9934459946872,13.3372870233225 98.9934459946872,13.3399819691749 98.9907510488348,13.3399819691749 98.9907510488348,13.3372870233225 98.9853611571301,13.3372870233225 98.9853611571301,13.3399819691749 98.9799712654254,13.3399819691749 98.9799712654254,13.3372870233225 98.9718864278683,13.3372870233225 98.9718864278683,13.3507617525843</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3951680154636,13.5636624749207 98.3978629613159,13.5636624749207 98.3978629613159,13.5582725832159 98.405947798873,13.5582725832159 98.405947798873,13.5528826915112 98.4086427447254,13.5528826915112 98.4086427447254,13.5555776373636 98.4113376905777,13.5555776373636 98.4113376905777,13.5582725832159 98.4194225281348,13.5582725832159 98.4194225281348,13.5555776373636 98.4221174739871,13.5555776373636 98.4221174739871,13.5528826915112 98.4248124198395,13.5528826915112 98.4248124198395,13.5501877456589 98.4221174739871,13.5501877456589 98.3897781237588,13.5501877456589 98.3897781237588,13.5555776373636 98.3924730696112,13.5555776373636 98.3924730696112,13.5609675290683 98.3951680154636,13.5609675290683 98.3951680154636,13.5636624749207</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.65388281729,10.8687166225621 98.6646626006994,10.8687166225621 98.6646626006994,10.860631785005 98.6673575465518,10.860631785005 98.6673575465518,10.8579368391527 98.6754423841088,10.8579368391527 98.6754423841088,10.8552418933003 98.6727474382565,10.8552418933003 98.6727474382565,10.8525469474479 98.6592727089947,10.8525469474479 98.6592727089947,10.8552418933003 98.65388281729,10.8552418933003 98.65388281729,10.8525469474479 98.6377131421758,10.8525469474479 98.6377131421758,10.8579368391527 98.6457979797329,10.8579368391527 98.6484929255853,10.8579368391527 98.6484929255853,10.8660216767097 98.6511878714376,10.8660216767097 98.65388281729,10.8660216767097 98.65388281729,10.8687166225621</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.120108449748,12.0491029058951 99.1254983414527,12.0491029058951 99.1254983414527,12.0464079600428 99.1228033956004,12.0464079600428 99.1228033956004,12.0437130141904 99.1254983414527,12.0437130141904 99.1254983414527,12.0410180683381 99.120108449748,12.0410180683381 99.120108449748,12.0491029058951</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7805452723508,12.5314982134673 98.7832402182032,12.5314982134673 98.7832402182032,12.5234133759102 98.7805452723508,12.5234133759102 98.7805452723508,12.5261083217626 98.7778503264985,12.5261083217626 98.7778503264985,12.528803267615 98.7805452723508,12.528803267615 98.7805452723508,12.5314982134673</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.015005561506,13.3507617525843 99.0203954532107,13.3507617525843 99.0203954532107,13.348066806732 99.0230903990631,13.348066806732 99.0230903990631,13.3372870233225 99.0257853449155,13.3372870233225 99.0257853449155,13.3345920774702 99.0230903990631,13.3345920774702 99.0203954532107,13.3345920774702 99.0203954532107,13.3399819691749 99.015005561506,13.3399819691749 99.015005561506,13.3426769150273 99.0177005073584,13.3426769150273 99.0177005073584,13.348066806732 99.015005561506,13.348066806732 99.015005561506,13.3507617525843</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7751553806461,12.5261083217626 98.7778503264985,12.5261083217626 98.7778503264985,12.5207184300579 98.7751553806461,12.5207184300579 98.7751553806461,12.5261083217626</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.3761283057221,11.86045669623 99.3815181974268,11.86045669623 99.3815181974268,11.8577617503777 99.3761283057221,11.8577617503777 99.3761283057221,11.86045669623</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7994098933173,12.3051227618692 98.8021048391697,12.3051227618692 98.8021048391697,12.3024278160168 98.8074947308744,12.3024278160168 98.8074947308744,12.2997328701645 98.8101896767268,12.2997328701645 98.8101896767268,12.2970379243121 98.8128846225791,12.2970379243121 98.8128846225791,12.2943429784598 98.8155795684315,12.2943429784598 98.8155795684315,12.2916480326074 98.8182745142839,12.2916480326074 98.8182745142839,12.2889530867551 98.8155795684315,12.2889530867551 98.7994098933173,12.2889530867551 98.7994098933173,12.2727834116409 98.8128846225791,12.2727834116409 98.8128846225791,12.2754783574933 98.8155795684315,12.2754783574933 98.8182745142839,12.2754783574933 98.8182745142839,12.2781733033456 98.8209694601362,12.2781733033456 98.8209694601362,12.280868249198 98.8236644059886,12.280868249198 98.8236644059886,12.2646985740838 98.8209694601362,12.2646985740838 98.8155795684315,12.2646985740838 98.8155795684315,12.2620036282315 98.8128846225791,12.2620036282315 98.8128846225791,12.2593086823791 98.8101896767268,12.2593086823791 98.8101896767268,12.2566137365268 98.8074947308744,12.2566137365268 98.7994098933173,12.2566137365268 98.7994098933173,12.243139007265 98.796714947465,12.243139007265 98.7886301099079,12.243139007265 98.7886301099079,12.2485288989697 98.7913250557603,12.2485288989697 98.7913250557603,12.2539187906744 98.7886301099079,12.2539187906744 98.7886301099079,12.2620036282315 98.7859351640555,12.2620036282315 98.7859351640555,12.2646985740838 98.7886301099079,12.2646985740838 98.7886301099079,12.2754783574933 98.7832402182032,12.2754783574933 98.7832402182032,12.2781733033456 98.7859351640555,12.2781733033456 98.7886301099079,12.2781733033456 98.7886301099079,12.2889530867551 98.7859351640555,12.2889530867551 98.7859351640555,12.2916480326074 98.7886301099079,12.2916480326074 98.7886301099079,12.2943429784598 98.7859351640555,12.2943429784598 98.7859351640555,12.2997328701645 98.796714947465,12.2997328701645 98.7994098933173,12.2997328701645 98.7994098933173,12.3051227618692</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.5811192792763,13.1297761926909 98.586509170981,13.1297761926909 98.586509170981,13.1189964092815 98.5838142251287,13.1189964092815 98.5784243334239,13.1189964092815 98.5784243334239,13.1216913551338 98.5811192792763,13.1216913551338 98.5811192792763,13.1297761926909</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.2846752355169,13.8331570601565 98.2873701813692,13.8331570601565 98.2873701813692,13.8304621143042 98.2900651272216,13.8304621143042 98.2900651272216,13.8169873850424 98.2873701813692,13.8169873850424 98.2846752355169,13.8169873850424 98.2846752355169,13.8223772767471 98.2873701813692,13.8223772767471 98.2873701813692,13.8277671684518 98.2846752355169,13.8277671684518 98.2846752355169,13.8331570601565</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.1686174750905,12.1326462273183 99.1713124209428,12.1326462273183 99.1713124209428,12.1299512814659 99.1686174750905,12.1299512814659 99.1686174750905,12.1326462273183</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.6132835407296,11.7203195119074 99.615978486582,11.7203195119074 99.615978486582,11.717624566055 99.6132835407296,11.717624566055 99.6132835407296,11.7203195119074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9611066444589,13.3399819691749 98.9638015903112,13.3399819691749 98.9638015903112,13.3372870233225 98.9611066444589,13.3372870233225 98.9611066444589,13.3399819691749</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8964279440023,11.423875468148 98.901817835707,11.423875468148 98.901817835707,11.4211805222956 98.8991228898546,11.4211805222956 98.8991228898546,11.4157906305909 98.8964279440023,11.4157906305909 98.8964279440023,11.423875468148</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.1470579082716,11.9978989347003 99.149752854124,11.9978989347003 99.149752854124,11.995203988848 99.1470579082716,11.995203988848 99.1470579082716,11.9978989347003</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.0044008668716,14.2993826926145 98.0070958127239,14.2993826926145 98.0070958127239,14.2966877467622 98.0044008668716,14.2966877467622 98.0044008668716,14.2993826926145</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.5029658495579,14.2616534506815 98.5056607954103,14.2616534506815 98.5056607954103,14.2589585048292 98.5083557412626,14.2589585048292 98.5083557412626,14.2616534506815 98.511050687115,14.2616534506815 98.511050687115,14.2589585048292 98.5137456329673,14.2589585048292 98.5137456329673,14.2454837755674 98.5164405788197,14.2454837755674 98.5164405788197,14.242788829715 98.5191355246721,14.242788829715 98.5191355246721,14.2454837755674 98.5218304705244,14.2454837755674 98.5218304705244,14.2373989380103 98.5191355246721,14.2373989380103 98.5137456329673,14.2373989380103 98.5137456329673,14.2320090463056 98.511050687115,14.2320090463056 98.5083557412626,14.2320090463056 98.5083557412626,14.2293141004532 98.5056607954103,14.2293141004532 98.5056607954103,14.2562635589768 98.4975759578532,14.2562635589768 98.4975759578532,14.2589585048292 98.5002709037055,14.2589585048292 98.5029658495579,14.2589585048292 98.5029658495579,14.2616534506815</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.1740073667952,11.8011678874782 99.1793972584999,11.8011678874782 99.1793972584999,11.7984729416258 99.1740073667952,11.7984729416258 99.1740073667952,11.8011678874782</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7239514094513,13.1243863009862 98.7266463553037,13.1243863009862 98.7266463553037,13.1189964092815 98.7239514094513,13.1189964092815 98.7239514094513,13.1163014634291 98.7212564635989,13.1163014634291 98.7212564635989,13.1216913551338 98.7239514094513,13.1216913551338 98.7239514094513,13.1243863009862</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6107636836522,13.8708863020895 98.6134586295046,13.8708863020895 98.6134586295046,13.8681913562372 98.6215434670617,13.8681913562372 98.6215434670617,13.8654964103848 98.6296283046187,13.8654964103848 98.6296283046187,13.8601065186801 98.6350181963235,13.8601065186801 98.6350181963235,13.8574115728277 98.6404080880282,13.8574115728277 98.6404080880282,13.8628014645325 98.6431030338805,13.8628014645325 98.6431030338805,13.8654964103848 98.6484929255853,13.8654964103848 98.6484929255853,13.8574115728277 98.6511878714376,13.8574115728277 98.6511878714376,13.8547166269754 98.65388281729,13.8547166269754 98.65388281729,13.852021681123 98.6511878714376,13.852021681123 98.6484929255853,13.852021681123 98.6484929255853,13.8493267352707 98.6511878714376,13.8493267352707 98.6511878714376,13.8439368435659 98.65388281729,13.8439368435659 98.65388281729,13.8385469518612 98.6565777631423,13.8385469518612 98.6565777631423,13.8358520060089 98.6592727089947,13.8358520060089 98.6592727089947,13.8304621143042 98.6619676548471,13.8304621143042 98.6619676548471,13.8331570601565 98.6646626006994,13.8331570601565 98.6646626006994,13.8385469518612 98.6673575465518,13.8385469518612 98.6673575465518,13.8304621143042 98.6700524924041,13.8304621143042 98.6700524924041,13.8358520060089 98.6727474382565,13.8358520060089 98.6727474382565,13.8385469518612 98.6754423841088,13.8385469518612 98.6754423841088,13.8412418977136 98.6781373299612,13.8412418977136 98.6781373299612,13.8358520060089 98.6835272216659,13.8358520060089 98.6835272216659,13.8331570601565 98.6889171133706,13.8331570601565 98.6889171133706,13.8304621143042 98.6862221675183,13.8304621143042 98.6835272216659,13.8304621143042 98.6835272216659,13.8277671684518 98.691612059223,13.8277671684518 98.691612059223,13.8304621143042 98.6943070050754,13.8304621143042 98.6943070050754,13.8277671684518 98.6970019509277,13.8277671684518 98.6970019509277,13.8304621143042 98.6996968967801,13.8304621143042 98.6996968967801,13.8277671684518 98.7023918426324,13.8277671684518 98.7023918426324,13.8250722225994 98.6996968967801,13.8250722225994 98.6996968967801,13.8169873850424 98.7050867884848,13.8169873850424 98.7050867884848,13.81429243919 98.7077817343371,13.81429243919 98.7077817343371,13.8115974933376 98.7104766801895,13.8115974933376 98.7104766801895,13.8062076016329 98.7158665718942,13.8062076016329 98.7158665718942,13.8089025474853 98.7185615177466,13.8089025474853 98.7185615177466,13.8008177099282 98.7239514094513,13.8008177099282 98.7239514094513,13.7927328723711 98.7266463553037,13.7927328723711 98.7266463553037,13.7900379265188 98.729341301156,13.7900379265188 98.729341301156,13.7846480348141 98.7320362470084,13.7846480348141 98.7320362470084,13.7792581431093 98.729341301156,13.7792581431093 98.729341301156,13.7711733055523 98.7266463553037,13.7711733055523 98.7266463553037,13.7657834138475 98.7239514094513,13.7657834138475 98.7239514094513,13.7630884679952 98.7212564635989,13.7630884679952 98.7185615177466,13.7630884679952 98.7185615177466,13.7603935221428 98.7158665718942,13.7603935221428 98.7158665718942,13.7630884679952 98.7131716260419,13.7630884679952 98.7131716260419,13.7603935221428 98.7104766801895,13.7603935221428 98.7104766801895,13.7576985762905 98.7077817343371,13.7576985762905 98.7023918426324,13.7576985762905 98.7023918426324,13.7523086845858 98.6996968967801,13.7523086845858 98.6996968967801,13.746918792881 98.6970019509277,13.746918792881 98.6970019509277,13.7496137387334 98.6943070050754,13.7496137387334 98.6943070050754,13.7523086845858 98.6889171133706,13.7523086845858 98.6889171133706,13.7550036304381 98.6835272216659,13.7550036304381 98.6835272216659,13.7523086845858 98.6781373299612,13.7523086845858 98.6781373299612,13.7550036304381 98.6754423841088,13.7550036304381 98.6754423841088,13.7630884679952 98.6673575465518,13.7630884679952 98.6673575465518,13.7657834138475 98.6727474382565,13.7657834138475 98.6754423841088,13.7657834138475 98.6754423841088,13.7684783596999 98.6673575465518,13.7684783596999 98.6673575465518,13.7738682514046 98.6646626006994,13.7738682514046 98.6646626006994,13.7711733055523 98.6619676548471,13.7711733055523 98.6619676548471,13.7684783596999 98.6646626006994,13.7684783596999 98.6646626006994,13.7630884679952 98.6565777631423,13.7630884679952 98.6565777631423,13.7738682514046 98.6592727089947,13.7738682514046 98.6592727089947,13.7792581431093 98.6484929255853,13.7792581431093 98.6484929255853,13.7846480348141 98.6511878714376,13.7846480348141 98.65388281729,13.7846480348141 98.65388281729,13.7873429806664 98.6511878714376,13.7873429806664 98.6511878714376,13.7900379265188 98.6484929255853,13.7900379265188 98.6484929255853,13.7981227640758 98.6511878714376,13.7981227640758 98.6511878714376,13.7927328723711 98.6565777631423,13.7927328723711 98.6565777631423,13.7981227640758 98.6592727089947,13.7981227640758 98.6592727089947,13.7954278182235 98.6619676548471,13.7954278182235 98.6619676548471,13.8008177099282 98.6646626006994,13.8008177099282 98.6646626006994,13.8035126557806 98.6673575465518,13.8035126557806 98.6673575465518,13.8062076016329 98.6646626006994,13.8062076016329 98.6646626006994,13.8089025474853 98.6619676548471,13.8089025474853 98.6619676548471,13.81429243919 98.6592727089947,13.81429243919 98.6592727089947,13.8223772767471 98.6619676548471,13.8223772767471 98.6619676548471,13.8250722225994 98.6565777631423,13.8250722225994 98.6565777631423,13.8304621143042 98.65388281729,13.8304621143042 98.65388281729,13.8250722225994 98.6484929255853,13.8250722225994 98.6484929255853,13.8358520060089 98.6404080880282,13.8358520060089 98.6404080880282,13.8412418977136 98.6377131421758,13.8412418977136 98.6377131421758,13.8439368435659 98.6296283046187,13.8439368435659 98.6296283046187,13.8466317894183 98.6323232504711,13.8466317894183 98.6323232504711,13.852021681123 98.6269333587664,13.852021681123 98.6269333587664,13.8547166269754 98.6215434670617,13.8547166269754 98.6215434670617,13.8601065186801 98.616153575357,13.8601065186801 98.616153575357,13.8547166269754 98.6134586295046,13.8547166269754 98.6107636836522,13.8547166269754 98.6107636836522,13.8574115728277 98.6134586295046,13.8574115728277 98.6134586295046,13.8628014645325 98.6080687377999,13.8628014645325 98.6080687377999,13.8681913562372 98.6107636836522,13.8681913562372 98.6107636836522,13.8708863020895</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.6700524924041,13.8304621143042 98.6700524924041,13.8223772767471 98.6754423841088,13.8223772767471 98.6754423841088,13.8277671684518 98.6727474382565,13.8277671684518 98.6727474382565,13.8304621143042 98.6700524924041,13.8304621143042</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.6943070050754,13.7900379265188 98.6943070050754,13.7873429806664 98.6996968967801,13.7873429806664 98.6996968967801,13.7900379265188 98.6943070050754,13.7900379265188</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.6862221675183,13.776563197257 98.6889171133706,13.776563197257 98.691612059223,13.776563197257 98.691612059223,13.7792581431093 98.6862221675183,13.7792581431093 98.6862221675183,13.7873429806664 98.6889171133706,13.7873429806664 98.6889171133706,13.7900379265188 98.691612059223,13.7900379265188 98.691612059223,13.7927328723711 98.6889171133706,13.7927328723711 98.6889171133706,13.7981227640758 98.6862221675183,13.7981227640758 98.6862221675183,13.8008177099282 98.6808322758136,13.8008177099282 98.6808322758136,13.7954278182235 98.6862221675183,13.7954278182235 98.6862221675183,13.7900379265188 98.6835272216659,13.7900379265188 98.6754423841088,13.7900379265188 98.6754423841088,13.7873429806664 98.6727474382565,13.7873429806664 98.6727474382565,13.7846480348141 98.6754423841088,13.7846480348141 98.6754423841088,13.7792581431093 98.6835272216659,13.7792581431093 98.6835272216659,13.7711733055523 98.6808322758136,13.7711733055523 98.6808322758136,13.7603935221428 98.6862221675183,13.7603935221428 98.6862221675183,13.7630884679952 98.6835272216659,13.7630884679952 98.6835272216659,13.7657834138475 98.6862221675183,13.7657834138475 98.6862221675183,13.776563197257</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.6808322758136,13.8223772767471 98.6808322758136,13.8115974933376 98.6835272216659,13.8115974933376 98.6835272216659,13.8089025474853 98.6862221675183,13.8089025474853 98.6862221675183,13.8115974933376 98.6889171133706,13.8115974933376 98.691612059223,13.8115974933376 98.691612059223,13.8223772767471 98.6808322758136,13.8223772767471</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.6727474382565,13.8062076016329 98.6727474382565,13.8035126557806 98.6754423841088,13.8035126557806 98.6754423841088,13.8062076016329 98.6727474382565,13.8062076016329</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.6727474382565,13.8035126557806 98.6700524924041,13.8035126557806 98.6700524924041,13.8008177099282 98.6727474382565,13.8008177099282 98.6727474382565,13.8035126557806</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.6727474382565,13.8358520060089 98.6727474382565,13.8331570601565 98.6754423841088,13.8331570601565 98.6754423841088,13.8358520060089 98.6727474382565,13.8358520060089</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.7104766801895,13.776563197257 98.7104766801895,13.7738682514046 98.7131716260419,13.7738682514046 98.7131716260419,13.776563197257 98.7104766801895,13.776563197257</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.7131716260419,13.776563197257 98.7158665718942,13.776563197257 98.7185615177466,13.776563197257 98.7185615177466,13.7792581431093 98.7158665718942,13.7792581431093 98.7158665718942,13.7846480348141 98.7131716260419,13.7846480348141 98.7131716260419,13.776563197257</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.6377131421758,13.8466317894183 98.6377131421758,13.8439368435659 98.6404080880282,13.8439368435659 98.6404080880282,13.8466317894183 98.6377131421758,13.8466317894183</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.4248124198395,13.994853811298 98.4328972573966,13.994853811298 98.4328972573966,13.9867689737409 98.4248124198395,13.9867689737409 98.4248124198395,13.994853811298</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6107636836522,13.9598195152174 98.616153575357,13.9598195152174 98.616153575357,13.957124569365 98.6134586295046,13.957124569365 98.6134586295046,13.9490397318079 98.6107636836522,13.9490397318079 98.6107636836522,13.9598195152174</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0257853449155,11.033108319556 99.0284802907678,11.033108319556 99.0284802907678,11.0304133737036 99.0257853449155,11.0304133737036 99.0257853449155,11.033108319556</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8964279440023,12.6878050729041 98.901817835707,12.6878050729041 98.901817835707,12.6851101270518 98.8964279440023,12.6851101270518 98.8964279440023,12.6878050729041</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.2548557423659,11.9547798010626 99.2602456340707,11.9547798010626 99.2602456340707,11.9493899093579 99.2548557423659,11.9493899093579 99.2548557423659,11.9547798010626</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9799712654254,13.3076426189466 98.9853611571301,13.3076426189466 98.9853611571301,13.2887779979801 98.9826662112777,13.2887779979801 98.977276319573,13.2887779979801 98.977276319573,13.2914729438324 98.9745813737207,13.2914729438324 98.9745813737207,13.2968628355372 98.977276319573,13.2968628355372 98.977276319573,13.2995577813895 98.9799712654254,13.2995577813895 98.9799712654254,13.2968628355372 98.9826662112777,13.2968628355372 98.9826662112777,13.3049476730942 98.9799712654254,13.3049476730942 98.9799712654254,13.3076426189466</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.405947798873,13.881666085499 98.4275073656919,13.881666085499 98.4275073656919,13.8789711396466 98.4302023115442,13.8789711396466 98.4302023115442,13.8762761937942 98.4328972573966,13.8762761937942 98.4328972573966,13.8681913562372 98.4302023115442,13.8681913562372 98.4248124198395,13.8681913562372 98.4248124198395,13.852021681123 98.4221174739871,13.852021681123 98.4194225281348,13.852021681123 98.4194225281348,13.8574115728277 98.4167275822824,13.8574115728277 98.4167275822824,13.8601065186801 98.4140326364301,13.8601065186801 98.4140326364301,13.8628014645325 98.4167275822824,13.8628014645325 98.4167275822824,13.8654964103848 98.4086427447254,13.8654964103848 98.4086427447254,13.8628014645325 98.405947798873,13.8628014645325 98.405947798873,13.881666085499</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.0259604336904,15.0943917190603 98.0313503253952,15.0943917190603 98.0313503253952,15.0755270980938 98.0286553795428,15.0755270980938 98.0232654878381,15.0755270980938 98.0232654878381,15.0782220439462 98.0259604336904,15.0782220439462 98.0286553795428,15.0782220439462 98.0286553795428,15.091696773208 98.0259604336904,15.091696773208 98.0259604336904,15.0943917190603</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.3734333598697,11.4184855764432 99.3761283057221,11.4184855764432 99.3761283057221,11.4157906305909 99.3734333598697,11.4157906305909 99.3734333598697,11.4184855764432</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.4542817354405,11.8308122918541 99.4596716271452,11.8308122918541 99.4596716271452,11.8254224001494 99.4542817354405,11.8254224001494 99.4542817354405,11.8308122918541</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>97.8804333576631,14.9407798054759 97.8885181952201,14.9407798054759 97.8885181952201,14.9326949679188 97.8858232493678,14.9326949679188 97.8858232493678,14.9353899137712 97.8831283035154,14.9353899137712 97.8831283035154,14.9326949679188 97.8804333576631,14.9326949679188 97.8804333576631,14.9407798054759</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0042257780966,11.4858592227522 99.0123106156537,11.4858592227522 99.0123106156537,11.4696895476381 99.0096156698013,11.4696895476381 99.0096156698013,11.4723844934904 99.0042257780966,11.4723844934904 99.0042257780966,11.4858592227522</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.65388281729,10.4294404486276 98.6565777631423,10.4294404486276 98.6565777631423,10.4267455027753 98.65388281729,10.4267455027753 98.65388281729,10.4294404486276</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8775633230357,14.0460577824928 98.8802582688881,14.0460577824928 98.8802582688881,14.0298881073787 98.8775633230357,14.0298881073787 98.8748683771834,14.0298881073787 98.8748683771834,14.032583053231 98.8775633230357,14.032583053231 98.8775633230357,14.0352779990834 98.8748683771834,14.0352779990834 98.8748683771834,14.0433628366405 98.8775633230357,14.0433628366405 98.8775633230357,14.0460577824928</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3655236110876,14.1861949668155 98.36821855694,14.1861949668155 98.36821855694,14.1781101292584 98.3655236110876,14.1781101292584 98.3628286652353,14.1781101292584 98.3628286652353,14.1808050751108 98.3601337193829,14.1808050751108 98.3601337193829,14.1835000209631 98.3628286652353,14.1835000209631 98.3655236110876,14.1835000209631 98.3655236110876,14.1861949668155</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3224044774499,14.205059587782 98.3250994233022,14.205059587782 98.3250994233022,14.1996696960773 98.3224044774499,14.1996696960773 98.3224044774499,14.1969747502249 98.3250994233022,14.1969747502249 98.3250994233022,14.1942798043726 98.3224044774499,14.1942798043726 98.3224044774499,14.1915848585202 98.3197095315975,14.1915848585202 98.3197095315975,14.1861949668155 98.3224044774499,14.1861949668155 98.3224044774499,14.1835000209631 98.3250994233022,14.1835000209631 98.3250994233022,14.1781101292584 98.3224044774499,14.1781101292584 98.3197095315975,14.1781101292584 98.3197095315975,14.175415183406 98.3170145857452,14.175415183406 98.3170145857452,14.1808050751108 98.3197095315975,14.1808050751108 98.3197095315975,14.1835000209631 98.3170145857452,14.1835000209631 98.3170145857452,14.1915848585202 98.3143196398928,14.1915848585202 98.3143196398928,14.1942798043726 98.3116246940404,14.1942798043726 98.3116246940404,14.1969747502249 98.3143196398928,14.1969747502249 98.3143196398928,14.2023646419296 98.3197095315975,14.2023646419296 98.3224044774499,14.2023646419296 98.3224044774499,14.205059587782</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.3170145857452,14.1996696960773 98.3170145857452,14.1969747502249 98.3197095315975,14.1969747502249 98.3197095315975,14.1996696960773 98.3170145857452,14.1996696960773</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.6078936490249,11.7122346743503 99.6105885948773,11.7122346743503 99.6105885948773,11.709539728498 99.6078936490249,11.709539728498 99.6078936490249,11.7122346743503</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.2523358852886,14.2966877467622 98.2550308311409,14.2966877467622 98.2550308311409,14.2939928009098 98.2523358852886,14.2939928009098 98.2523358852886,14.2966877467622</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6026788460952,10.6935451421588 98.6053737919475,10.6935451421588 98.6053737919475,10.6908501963064 98.6026788460952,10.6908501963064 98.6026788460952,10.6935451421588</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0689044785532,11.8550668045253 99.0715994244056,11.8550668045253 99.0715994244056,11.852371858673 99.0689044785532,11.852371858673 99.0689044785532,11.8550668045253</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0608196409961,11.6556408114508 99.0635145868485,11.6556408114508 99.0635145868485,11.6502509197461 99.0608196409961,11.6502509197461 99.0608196409961,11.6556408114508</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.1445380511942,13.81429243919 98.1472329970466,13.81429243919 98.1472329970466,13.8115974933376 98.1445380511942,13.8115974933376 98.1445380511942,13.81429243919</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8991228898546,14.1053465912447 98.901817835707,14.1053465912447 98.901817835707,14.1026516453924 98.8991228898546,14.1026516453924 98.8991228898546,14.1053465912447</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8640885937739,11.3538068759866 98.8667835396263,11.3538068759866 98.8667835396263,11.3511119301343 98.8640885937739,11.3511119301343 98.8640885937739,11.3538068759866</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7994098933173,12.7632635567702 98.8074947308744,12.7632635567702 98.8074947308744,12.7363140982466 98.8047997850221,12.7363140982466 98.7994098933173,12.7363140982466 98.7994098933173,12.7443989358037 98.7805452723508,12.7443989358037 98.7805452723508,12.7551787192131 98.796714947465,12.7551787192131 98.7994098933173,12.7551787192131 98.7994098933173,12.7632635567702</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.7994098933173,12.7497888275084 98.7994098933173,12.7443989358037 98.8021048391697,12.7443989358037 98.8021048391697,12.747093881656 98.8047997850221,12.747093881656 98.8047997850221,12.7497888275084 98.7994098933173,12.7497888275084</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.8021048391697,12.7578736650654 98.8021048391697,12.7524837733607 98.8047997850221,12.7524837733607 98.8047997850221,12.7578736650654 98.8021048391697,12.7578736650654</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.977276319573,11.0277184278512 98.9799712654254,11.0277184278512 98.9799712654254,11.0223285361465 98.977276319573,11.0223285361465 98.977276319573,11.0277184278512</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8398340811027,13.9921588654457 98.8452239728074,13.9921588654457 98.8452239728074,13.9894639195933 98.8398340811027,13.9894639195933 98.8398340811027,13.9921588654457</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.1660976180131,14.9353899137712 98.1687925638654,14.9353899137712 98.1687925638654,14.9326949679188 98.1660976180131,14.9326949679188 98.1660976180131,14.9353899137712</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0419550200296,13.4693393700881 99.0473449117343,13.4693393700881 99.0473449117343,13.4666444242357 99.0419550200296,13.4666444242357 99.0419550200296,13.4693393700881</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0311752366202,13.3345920774702 99.0338701824725,13.3345920774702 99.0338701824725,13.3318971316178 99.0311752366202,13.3318971316178 99.0311752366202,13.3345920774702</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6727474382565,13.8574115728277 98.6754423841088,13.8574115728277 98.6754423841088,13.852021681123 98.6727474382565,13.852021681123 98.6727474382565,13.8574115728277</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.4300272227692,11.8874061547536 99.4327221686216,11.8874061547536 99.4327221686216,11.8820162630489 99.4300272227692,11.8820162630489 99.4300272227692,11.8874061547536</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0042257780966,11.4130956847385 99.015005561506,11.4130956847385 99.015005561506,11.4104007388862 99.0123106156537,11.4104007388862 99.0123106156537,11.4050108471814 99.0096156698013,11.4050108471814 99.0096156698013,11.4104007388862 99.0042257780966,11.4104007388862 99.0042257780966,11.4130956847385</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8209694601362,12.2997328701645 98.8236644059886,12.2997328701645 98.8236644059886,12.2970379243121 98.8209694601362,12.2970379243121 98.8209694601362,12.2997328701645</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6080687377999,14.2185343170438 98.6107636836522,14.2185343170438 98.6107636836522,14.2158393711914 98.6080687377999,14.2158393711914 98.6080687377999,14.2185343170438</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.2440759589565,11.8254224001494 99.2521607965136,11.8254224001494 99.2521607965136,11.822727454297 99.2494658506612,11.822727454297 99.2494658506612,11.8200325084447 99.2467709048089,11.8200325084447 99.2467709048089,11.822727454297 99.2440759589565,11.822727454297 99.2440759589565,11.8254224001494</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3789983403494,14.6443357617164 98.3816932862018,14.6443357617164 98.3816932862018,14.6416408158641 98.3789983403494,14.6416408158641 98.3789983403494,14.6443357617164</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>97.9882311917574,14.7144043538778 97.9909261376098,14.7144043538778 97.9909261376098,14.7117094080254 97.9882311917574,14.7117094080254 97.9882311917574,14.7144043538778</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9988358863919,12.6824151811994 99.0096156698013,12.6824151811994 99.0096156698013,12.679720235347 99.015005561506,12.679720235347 99.015005561506,12.6770252894947 99.0177005073584,12.6770252894947 99.0177005073584,12.6689404519376 99.015005561506,12.6689404519376 99.015005561506,12.67163539779 99.0123106156537,12.67163539779 99.0123106156537,12.6743303436423 99.0096156698013,12.6743303436423 99.0096156698013,12.67163539779 99.0042257780966,12.67163539779 99.0042257780966,12.6743303436423 99.0015308322442,12.6743303436423 99.0015308322442,12.6770252894947 98.9988358863919,12.6770252894947 98.9988358863919,12.6824151811994</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9745813737207,13.2833881062754 98.977276319573,13.2833881062754 98.977276319573,13.280693160423 98.9745813737207,13.280693160423 98.9745813737207,13.2833881062754</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7509008679749,14.0972617536877 98.7535958138272,14.0972617536877 98.7535958138272,14.0945668078353 98.7509008679749,14.0945668078353 98.7509008679749,14.0972617536877</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.263115668698,13.9867689737409 98.2658106145503,13.9867689737409 98.2658106145503,13.9813790820362 98.263115668698,13.9813790820362 98.263115668698,13.9867689737409</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9907510488348,12.1218664439088 98.9934459946872,12.1218664439088 98.9934459946872,12.1191714980565 98.9907510488348,12.1191714980565 98.9907510488348,12.1218664439088</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8937329981499,12.1218664439088 98.8964279440023,12.1218664439088 98.8964279440023,12.1191714980565 98.8937329981499,12.1191714980565 98.8937329981499,12.1218664439088</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6727474382565,11.7014548909409 98.6754423841088,11.7014548909409 98.6754423841088,11.6987599450885 98.6727474382565,11.6987599450885 98.6727474382565,11.7014548909409</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0527348034391,12.0302382849286 99.0554297492914,12.0302382849286 99.0554297492914,12.0275433390763 99.0527348034391,12.0275433390763 99.0527348034391,12.0302382849286</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.2361662101744,14.0218032698216 98.2388611560268,14.0218032698216 98.2388611560268,14.0191083239693 98.2415561018791,14.0191083239693 98.2415561018791,14.0164133781169 98.2442510477315,14.0164133781169 98.2442510477315,14.0137184322645 98.2361662101744,14.0137184322645 98.2361662101744,14.0218032698216</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.0933340799994,14.5742671695551 98.120283538523,14.5742671695551 98.120283538523,14.5392328734745 98.1175885926706,14.5392328734745 98.1121987009659,14.5392328734745 98.1121987009659,14.558097494441 98.1041138634088,14.558097494441 98.1041138634088,14.5500126568839 98.0744694590329,14.5500126568839 98.0744694590329,14.566182331998 98.0852492424423,14.566182331998 98.0852492424423,14.558097494441 98.090639134147,14.558097494441 98.0933340799994,14.558097494441 98.0933340799994,14.5742671695551</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0338701824725,13.280693160423 99.0365651283249,13.280693160423 99.0365651283249,13.2779982145706 99.0338701824725,13.2779982145706 99.0338701824725,13.280693160423</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.2119116975032,14.4772491188702 98.2199965350602,14.4772491188702 98.2199965350602,14.4691642813131 98.2119116975032,14.4691642813131 98.2119116975032,14.4772491188702</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7778503264985,11.0142436985895 98.7805452723508,11.0142436985895 98.7805452723508,11.0115487527371 98.7778503264985,11.0115487527371 98.7778503264985,11.0142436985895</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.195566933614,12.0571877434522 99.2036517711711,12.0571877434522 99.2036517711711,12.0544927975999 99.2009568253188,12.0544927975999 99.2009568253188,12.0491029058951 99.2063467170235,12.0491029058951 99.2063467170235,12.0517978517475 99.2090416628758,12.0517978517475 99.2090416628758,12.0491029058951 99.2117366087282,12.0491029058951 99.2117366087282,12.0437130141904 99.2090416628758,12.0437130141904 99.2090416628758,12.0464079600428 99.2063467170235,12.0464079600428 99.2063467170235,12.0437130141904 99.2036517711711,12.0437130141904 99.2009568253188,12.0437130141904 99.2009568253188,12.0410180683381 99.2036517711711,12.0410180683381 99.2036517711711,12.0383231224857 99.2063467170235,12.0383231224857 99.2063467170235,12.0410180683381 99.2117366087282,12.0410180683381 99.2117366087282,12.0383231224857 99.2225163921376,12.0383231224857 99.2225163921376,12.0356281766333 99.2198214462853,12.0356281766333 99.2198214462853,12.0248483932239 99.2171265004329,12.0248483932239 99.2144315545806,12.0248483932239 99.2144315545806,12.0221534473716 99.2117366087282,12.0221534473716 99.2117366087282,12.0194585015192 99.2144315545806,12.0194585015192 99.2144315545806,12.0167635556668 99.2171265004329,12.0167635556668 99.2171265004329,12.0194585015192 99.2198214462853,12.0194585015192 99.2198214462853,12.0140686098145 99.2063467170235,12.0140686098145 99.2063467170235,12.0167635556668 99.2036517711711,12.0167635556668 99.2036517711711,12.0275433390763 99.1928719877617,12.0275433390763 99.1928719877617,12.0302382849286 99.1901770419093,12.0302382849286 99.1901770419093,12.032933230781 99.1847871502046,12.032933230781 99.1847871502046,12.0356281766333 99.1820922043523,12.0356281766333 99.1820922043523,12.0302382849286 99.1740073667952,12.0302382849286 99.1740073667952,12.0383231224857 99.1793972584999,12.0383231224857 99.1820922043523,12.0383231224857 99.1820922043523,12.0491029058951 99.1928719877617,12.0491029058951 99.195566933614,12.0491029058951 99.195566933614,12.0517978517475 99.1982618794664,12.0517978517475 99.1982618794664,12.0544927975999 99.195566933614,12.0544927975999 99.195566933614,12.0571877434522</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>99.2036517711711,12.0383231224857 99.2009568253188,12.0383231224857 99.2009568253188,12.0356281766333 99.2036517711711,12.0356281766333 99.2036517711711,12.0383231224857</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>99.2117366087282,12.0194585015192 99.2090416628758,12.0194585015192 99.2090416628758,12.0167635556668 99.2117366087282,12.0167635556668 99.2117366087282,12.0194585015192</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>99.1928719877617,12.0410180683381 99.1928719877617,12.0383231224857 99.1901770419093,12.0383231224857 99.1901770419093,12.0356281766333 99.1928719877617,12.0356281766333 99.1928719877617,12.032933230781 99.195566933614,12.032933230781 99.195566933614,12.0356281766333 99.1982618794664,12.0356281766333 99.1982618794664,12.0410180683381 99.1928719877617,12.0410180683381</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8236644059886,10.9603447815423 98.8317492435456,10.9603447815423 98.8317492435456,10.9576498356899 98.834444189398,10.9576498356899 98.834444189398,10.9549548898376 98.8317492435456,10.9549548898376 98.8290542976933,10.9549548898376 98.8290542976933,10.9522599439852 98.8236644059886,10.9522599439852 98.8236644059886,10.9549548898376 98.8209694601362,10.9549548898376 98.8209694601362,10.9576498356899 98.8236644059886,10.9576498356899 98.8236644059886,10.9603447815423</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.5918990626857,10.680070412897 98.5945940085381,10.680070412897 98.5945940085381,10.6773754670446 98.5918990626857,10.6773754670446 98.5918990626857,10.680070412897</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.909902673264,12.070662472714 98.9125976191164,12.070662472714 98.9125976191164,12.0679675268617 98.909902673264,12.0679675268617 98.909902673264,12.070662472714</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.0852492424423,14.3371119345476 98.0879441882947,14.3371119345476 98.0879441882947,14.3290270969905 98.0852492424423,14.3290270969905 98.0852492424423,14.3371119345476</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0257853449155,12.5530577802862 99.0284802907678,12.5530577802862 99.0284802907678,12.5449729427291 99.0257853449155,12.5449729427291 99.0257853449155,12.5422779968768 99.0230903990631,12.5422779968768 99.0230903990631,12.5503628344338 99.0257853449155,12.5503628344338 99.0257853449155,12.5530577802862</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7562907596796,13.2645234853089 98.7643755972367,13.2645234853089 98.7643755972367,13.2618285394565 98.7697654889414,13.2618285394565 98.7697654889414,13.2591335936041 98.7751553806461,13.2591335936041 98.7751553806461,13.2645234853089 98.7778503264985,13.2645234853089 98.7778503264985,13.2591335936041 98.7805452723508,13.2591335936041 98.7805452723508,13.2564386477518 98.7778503264985,13.2564386477518 98.7778503264985,13.2483538101947 98.7751553806461,13.2483538101947 98.7724604347938,13.2483538101947 98.7724604347938,13.2321841350806 98.7697654889414,13.2321841350806 98.7697654889414,13.2348790809329 98.7616806513843,13.2348790809329 98.7616806513843,13.2294891892282 98.7643755972367,13.2294891892282 98.7643755972367,13.2187094058188 98.7616806513843,13.2187094058188 98.7535958138272,13.2187094058188 98.7535958138272,13.2214043516711 98.7482059221225,13.2214043516711 98.7482059221225,13.2240992975235 98.7535958138272,13.2240992975235 98.7562907596796,13.2240992975235 98.7562907596796,13.2321841350806 98.7509008679749,13.2321841350806 98.7509008679749,13.2294891892282 98.7482059221225,13.2294891892282 98.7455109762702,13.2294891892282 98.7455109762702,13.2267942433758 98.7428160304178,13.2267942433758 98.7428160304178,13.2375740267853 98.7455109762702,13.2375740267853 98.7455109762702,13.2456588643423 98.7482059221225,13.2456588643423 98.7482059221225,13.2483538101947 98.7455109762702,13.2483538101947 98.7455109762702,13.2510487560471 98.7428160304178,13.2510487560471 98.7428160304178,13.2564386477518 98.7535958138272,13.2564386477518 98.7535958138272,13.2537437018994 98.7562907596796,13.2537437018994 98.7562907596796,13.2510487560471 98.7616806513843,13.2510487560471 98.7643755972367,13.2510487560471 98.7643755972367,13.2537437018994 98.7616806513843,13.2537437018994 98.7616806513843,13.2564386477518 98.758985705532,13.2564386477518 98.758985705532,13.2591335936041 98.7562907596796,13.2591335936041 98.7562907596796,13.2645234853089</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.7482059221225,13.24296391849 98.7482059221225,13.2375740267853 98.7509008679749,13.2375740267853 98.7509008679749,13.24296391849 98.7482059221225,13.24296391849</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.7509008679749,13.2375740267853 98.7509008679749,13.2348790809329 98.758985705532,13.2348790809329 98.758985705532,13.2375740267853 98.7509008679749,13.2375740267853</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.767070543089,13.2537437018994 98.767070543089,13.2510487560471 98.7697654889414,13.2510487560471 98.7697654889414,13.2537437018994 98.767070543089,13.2537437018994</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.7616806513843,12.852196769898 98.7643755972367,12.852196769898 98.7643755972367,12.8495018240456 98.7616806513843,12.8495018240456 98.7616806513843,12.852196769898</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9233774025258,12.2673935199362 98.9341571859353,12.2673935199362 98.9341571859353,12.2646985740838 98.9233774025258,12.2646985740838 98.9233774025258,12.2673935199362</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9260723483782,12.7363140982466 98.9341571859353,12.7363140982466 98.9341571859353,12.7282292606895 98.9260723483782,12.7282292606895 98.9260723483782,12.7363140982466</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.4839261398164,11.8496769128206 99.4866210856688,11.8496769128206 99.4866210856688,11.8442870211159 99.4839261398164,11.8442870211159 99.4812311939641,11.8442870211159 99.4812311939641,11.8469819669682 99.4839261398164,11.8469819669682 99.4839261398164,11.8496769128206</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>99.0311752366202,12.1137816063517 99.0338701824725,12.1137816063517 99.0338701824725,12.1110866604994 99.0311752366202,12.1110866604994 99.0311752366202,12.1137816063517</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.5353051997862,10.3971010983993 98.5514748749004,10.3971010983993 98.5514748749004,10.394406152547 98.5649496041622,10.394406152547 98.5649496041622,10.3917112066946 98.5676445500145,10.3917112066946 98.5676445500145,10.3890162608423 98.5649496041622,10.3890162608423 98.5595597124574,10.3890162608423 98.5595597124574,10.3863213149899 98.5568647666051,10.3863213149899 98.5568647666051,10.3836263691375 98.5514748749004,10.3836263691375 98.5514748749004,10.3863213149899 98.548779929048,10.3863213149899 98.548779929048,10.3809314232852 98.5380001456386,10.3809314232852 98.5380001456386,10.3890162608423 98.5326102539338,10.3890162608423 98.5326102539338,10.3917112066946 98.5299153080815,10.3917112066946 98.5299153080815,10.394406152547 98.5326102539338,10.394406152547 98.5353051997862,10.394406152547 98.5353051997862,10.3971010983993</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>98.5433900373433,10.394406152547 98.5433900373433,10.3863213149899 98.5460849831956,10.3863213149899 98.5460849831956,10.394406152547 98.5433900373433,10.394406152547</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.3277943691546,14.700929624616 98.330489315007,14.700929624616 98.330489315007,14.6982346787636 98.3277943691546,14.6982346787636 98.3277943691546,14.700929624616</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.9934459946872,13.4423899115645 98.9988358863919,13.4423899115645 98.9988358863919,13.4396949657122 98.9934459946872,13.4396949657122 98.9934459946872,13.4423899115645</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.8074947308744,12.8683664450121 98.8155795684315,12.8683664450121 98.8155795684315,12.852196769898 98.8236644059886,12.852196769898 98.8236644059886,12.8414169864886 98.8209694601362,12.8414169864886 98.8209694601362,12.8387220406362 98.8182745142839,12.8387220406362 98.8182745142839,12.8360270947838 98.8074947308744,12.8360270947838 98.8074947308744,12.852196769898 98.7913250557603,12.852196769898 98.7913250557603,12.8548917157504 98.7940200016126,12.8548917157504 98.7940200016126,12.8575866616027 98.7913250557603,12.8575866616027 98.7913250557603,12.8602816074551 98.7994098933173,12.8602816074551 98.7994098933173,12.8548917157504 98.8021048391697,12.8548917157504 98.8021048391697,12.8602816074551 98.8047997850221,12.8602816074551 98.8074947308744,12.8602816074551 98.8074947308744,12.8683664450121</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Polygons_11__FOR_to_SHB_">
+		<SimpleData name="DN">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>98.6107636836522,10.5048989324937 98.6134586295046,10.5048989324937 98.6134586295046,10.5022039866413 98.6107636836522,10.5022039866413 98.6107636836522,10.5048989324937</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
